@@ -10,11 +10,11 @@
   feature_group: new
   customised: false
   devices:
-  - desktop
-  - mobile
+    - desktop
+    - mobile
   licenses:
-  - CW
-  - MT
+    - CW
+    - MT
   jackpot_type: Not Available
   forbid_bonus_play: false
   payout: 96.0
@@ -28,7 +28,7 @@
       blacklist: []
     RS:
       whitelist:
-      - RS
+        - RS
 - title: All Lucky Clovers
   identifier: softswiss:AllLuckyClover
   identifier2: AllLuckyClover
@@ -40,21 +40,22 @@
   feature_group: new
   customised: false
   devices:
-  - desktop
-  - mobile
+    - desktop
+    - mobile
   licenses:
-  - MT
-  - CW
+    - MT
+    - CW
   jackpot_type: Not Available
   forbid_bonus_play: false
   lines: 100
   payout: 97.0
-  description: 'Next level of gaming experience is presented in slot All Lucky Clovers.
+  description:
+    "Next level of gaming experience is presented in slot All Lucky Clovers.
     The game includes fourmodes which can be played anytime: play with 5, 20, 40 or
     100 lines. The layout of the reelsfor 5 and 20 lines is 5x3. The layout for 40
     and 100 line-game is 5x4. The game features 2Scatters, Expanding Wilds, Gamble
     Round and a lot of action in general. All Lucky Clovers isexciting to play and
-    enlarge the winnings.'
+    enlarge the winnings."
   volatility_rating: high
   hd: true
   multiplier: 3000.0
@@ -63,7 +64,7 @@
       blacklist: []
     RS:
       whitelist:
-      - RS
+        - RS
 - title: All Lucky Clovers 100
   identifier: softswiss:AllLuckyClover100
   identifier2: AllLuckyClover100
@@ -75,21 +76,22 @@
   feature_group: new
   customised: false
   devices:
-  - desktop
-  - mobile
+    - desktop
+    - mobile
   licenses:
-  - CW
-  - MT
+    - CW
+    - MT
   jackpot_type: Not Available
   forbid_bonus_play: false
   lines: 100
   payout: 97.0
-  description: 'Next level of gaming experience is presented in slot All Lucky Clovers.
+  description:
+    "Next level of gaming experience is presented in slot All Lucky Clovers.
     The game includes fourmodes which can be played anytime: play with 5, 20, 40 or
     100 lines. The layout of the reelsfor 5 and 20 lines is 5x3. The layout for 40
     and 100 line-game is 5x4. The game features 2Scatters, Expanding Wilds, Gamble
     Round and a lot of action in general. All Lucky Clovers isexciting to play and
-    enlarge the winnings.'
+    enlarge the winnings."
   volatility_rating: high
   hd: true
   multiplier: 3000.0
@@ -98,7 +100,7 @@
       blacklist: []
     RS:
       whitelist:
-      - RS
+        - RS
 - title: All Lucky Clovers 20
   identifier: softswiss:AllLuckyClover20
   identifier2: AllLuckyClover20
@@ -110,21 +112,22 @@
   feature_group: new
   customised: false
   devices:
-  - desktop
-  - mobile
+    - desktop
+    - mobile
   licenses:
-  - CW
-  - MT
+    - CW
+    - MT
   jackpot_type: Not Available
   forbid_bonus_play: false
   lines: 20
   payout: 97.0
-  description: 'Next level of gaming experience is presented in slot All Lucky Clovers.
+  description:
+    "Next level of gaming experience is presented in slot All Lucky Clovers.
     The game includes fourmodes which can be played anytime: play with 5, 20, 40 or
     100 lines. The layout of the reelsfor 5 and 20 lines is 5x3. The layout for 40
     and 100 line-game is 5x4. The game features 2Scatters, Expanding Wilds, Gamble
     Round and a lot of action in general. All Lucky Clovers isexciting to play and
-    enlarge the winnings.'
+    enlarge the winnings."
   volatility_rating: high
   hd: true
   multiplier: 3000.0
@@ -133,7 +136,7 @@
       blacklist: []
     RS:
       whitelist:
-      - RS
+        - RS
 - title: All Lucky Clovers 40
   identifier: softswiss:AllLuckyClover40
   identifier2: AllLuckyClover40
@@ -145,21 +148,22 @@
   feature_group: new
   customised: false
   devices:
-  - desktop
-  - mobile
+    - desktop
+    - mobile
   licenses:
-  - CW
-  - MT
+    - CW
+    - MT
   jackpot_type: Not Available
   forbid_bonus_play: false
   lines: 40
   payout: 97.0
-  description: 'Next level of gaming experience is presented in slot All Lucky Clovers.
+  description:
+    "Next level of gaming experience is presented in slot All Lucky Clovers.
     The game includes fourmodes which can be played anytime: play with 5, 20, 40 or
     100 lines. The layout of the reelsfor 5 and 20 lines is 5x3. The layout for 40
     and 100 line-game is 5x4. The game features 2Scatters, Expanding Wilds, Gamble
     Round and a lot of action in general. All Lucky Clovers isexciting to play and
-    enlarge the winnings.'
+    enlarge the winnings."
   volatility_rating: high
   hd: true
   multiplier: 3000.0
@@ -168,7 +172,7 @@
       blacklist: []
     RS:
       whitelist:
-      - RS
+        - RS
 - title: All Lucky Clovers 5
   identifier: softswiss:AllLuckyClover5
   identifier2: AllLuckyClover5
@@ -180,21 +184,22 @@
   feature_group: new
   customised: false
   devices:
-  - desktop
-  - mobile
+    - desktop
+    - mobile
   licenses:
-  - CW
-  - MT
+    - CW
+    - MT
   jackpot_type: Not Available
   forbid_bonus_play: false
   lines: 5
   payout: 97.0
-  description: 'Next level of gaming experience is presented in slot All Lucky Clovers.
+  description:
+    "Next level of gaming experience is presented in slot All Lucky Clovers.
     The game includes fourmodes which can be played anytime: play with 5, 20, 40 or
     100 lines. The layout of the reelsfor 5 and 20 lines is 5x3. The layout for 40
     and 100 line-game is 5x4. The game features 2Scatters, Expanding Wilds, Gamble
     Round and a lot of action in general. All Lucky Clovers isexciting to play and
-    enlarge the winnings.'
+    enlarge the winnings."
   volatility_rating: medium
   hd: true
   multiplier: 3000.0
@@ -203,7 +208,7 @@
       blacklist: []
     RS:
       whitelist:
-      - RS
+        - RS
 - title: Aloha King Elvis
   identifier: softswiss:AlohaKingElvis
   identifier2: AlohaKingElvis
@@ -215,16 +220,17 @@
   feature_group: new
   customised: false
   devices:
-  - desktop
-  - mobile
+    - desktop
+    - mobile
   licenses:
-  - CW
-  - MT
+    - CW
+    - MT
   jackpot_type: Not Available
   forbid_bonus_play: false
   lines: 25
   payout: 94.92
-  description: "Have you met a charismatic Elvis Frog performing in Las Vegas? We’re
+  description:
+    "Have you met a charismatic Elvis Frog performing in Las Vegas? We’re
     sure, you have! The Elvis Frog in Vegas slot, released in May 2020, is a true
     hit and favourite game for many players worldwide. BGaming is going to release
     a sequel of its most popular title! The slot called Aloha King Elvis! will be
@@ -242,7 +248,7 @@
       blacklist: []
     RS:
       whitelist:
-      - RS
+        - RS
 - title: American Roulette
   identifier: softswiss:AmericanRoulette
   identifier2: AmericanRoulette
@@ -254,16 +260,17 @@
   feature_group: basic
   customised: false
   devices:
-  - desktop
-  - mobile
+    - desktop
+    - mobile
   licenses:
-  - MT
-  - CW
-  - GR
+    - MT
+    - CW
+    - GR
   jackpot_type: Not Available
   forbid_bonus_play: false
   payout: 94.74
-  description: 'American Roulette features a ball, a wheel and numbers colored black
+  description:
+    'American Roulette features a ball, a wheel and numbers colored black
     and red and marked from 1to 36. There is also one green slot numbered 0. This
     variation of roulette features two zeropockets: 0 and 00 (as opposed to the European
     variant with only 0) which increases the house'' sadvantage on even money bets.
@@ -276,8 +283,8 @@
       blacklist: []
     RS:
       whitelist:
-      - RS
-- title: 'Avalon: The Lost Kingdom'
+        - RS
+- title: "Avalon: The Lost Kingdom"
   identifier: softswiss:Avalon
   identifier2: Avalon
   provider: softswiss
@@ -288,24 +295,25 @@
   feature_group: new
   customised: false
   devices:
-  - desktop
-  - mobile
+    - desktop
+    - mobile
   licenses:
-  - BY
-  - MT
-  - GR
-  - CW
+    - BY
+    - MT
+    - GR
+    - CW
   jackpot_type: Not Available
   forbid_bonus_play: false
   lines: 20
   payout: 95.0
-  description: 'Medieval adventures on a magic island far away await you in Avalon:The
+  description:
+    "Medieval adventures on a magic island far away await you in Avalon:The
     Lost Kingdom. Thegame is a 5 reels and 20 paylines slot full of action entertainment,
     packed with opportunitiesfor winning, and immersing the player deeply into the
     mysterious atmosphere. There is aplethora of features that guarantee exciting
     gaming and winnings galore: Free Spins,Multipliers, Additional Wilds and even
     Fateful Wild. Visit the mysterious kingdom of Avalon,which can disclose its big
-    treasures.'
+    treasures."
   volatility_rating: high
   hd: true
   multiplier: 5000.0
@@ -314,7 +322,7 @@
       blacklist: []
     RS:
       whitelist:
-      - RS
+        - RS
 - title: Aztec Magic
   identifier: softswiss:AztecMagic
   identifier2: AztecMagic
@@ -326,23 +334,24 @@
   feature_group: basic
   customised: false
   devices:
-  - desktop
-  - mobile
+    - desktop
+    - mobile
   licenses:
-  - MT
-  - CW
-  - GR
+    - MT
+    - CW
+    - GR
   jackpot_type: Not Available
   forbid_bonus_play: false
   lines: 15
   payout: 96.96
-  description: 'Aztec Magic is 5-reel 15-payline slot which is devoted tothe ancient
-    civilization of South American Indians. It''s all about the nature and culture
+  description:
+    "Aztec Magic is 5-reel 15-payline slot which is devoted tothe ancient
+    civilization of South American Indians. It's all about the nature and culture
     of the powerful tribe: stonecut reels, forests and mountains of Mexico in thebackground,
     and Indian masks depicting gods andwarriors. All symbols are designed in the cave
     paintingstyle to create the authentic atmosphere of Aztec living.Aztec warrior
     as a Wild symbol triples all winnings andIndian priestess as a Scatter brings
-    a number of free spins bonus features which bring additionalfun to playing.'
+    a number of free spins bonus features which bring additionalfun to playing."
   volatility_rating: low
   hd: true
   multiplier: 5000.0
@@ -351,7 +360,7 @@
       blacklist: []
     RS:
       whitelist:
-      - RS
+        - RS
 - title: Aztec Magic Bonanza
   identifier: softswiss:AztecMagicBonanza
   identifier2: AztecMagicBonanza
@@ -363,16 +372,17 @@
   feature_group: new
   customised: false
   devices:
-  - desktop
-  - mobile
+    - desktop
+    - mobile
   licenses:
-  - CW
-  - BY
-  - MT
+    - CW
+    - BY
+    - MT
   jackpot_type: Not Available
   forbid_bonus_play: false
   payout: 96.0
-  description: "Behold everyone’s favorite slot now seasoned with some Aztec style
+  description:
+    "Behold everyone’s favorite slot now seasoned with some Aztec style
     and magic vibes. BGaming introduces a magnificent transformation of best games
     and their mechanics into a single game - Aztec Magic Bonanza! This extraordinary
     slot will surprise you with new gaming experience and catch you for many hours.
@@ -390,7 +400,7 @@
       blacklist: []
     RS:
       whitelist:
-      - RS
+        - RS
 - title: Aztec Magic Deluxe
   identifier: softswiss:AztecMagicDeluxe
   identifier2: AztecMagicDeluxe
@@ -402,26 +412,27 @@
   feature_group: basic
   customised: false
   devices:
-  - desktop
-  - mobile
+    - desktop
+    - mobile
   licenses:
-  - CW
-  - MT
-  - RO
-  - BY
+    - CW
+    - MT
+    - RO
+    - BY
   jackpot_type: Not Available
   forbid_bonus_play: false
   lines: 25
   payout: 96.96
-  description: 'The Aztec were a Mesoamerican civilization that flourishedduring the
+  description:
+    "The Aztec were a Mesoamerican civilization that flourishedduring the
     14th, 15th centuries in the region of Mexico. Theirinfluence stretched throughout
     most of the northernMesoamerica. This unique society left a significant footprinton
     the map of Mesoamerican civilizations and built anempire with its own culture
     and political system.Aztec Magic is devoted to the ancient civilization of SouthAmerican
-    Indians. It''s all about the nature and culture of the powerful tribe: stone cut
+    Indians. It's all about the nature and culture of the powerful tribe: stone cut
     reels, forestsand mountains of Mexico in the background, and Indian masks depicting
     gods and warriors. Allsymbols are designed in the cave painting style to create
-    the authentic atmosphere of Aztec living.'
+    the authentic atmosphere of Aztec living."
   volatility_rating: low
   hd: true
   multiplier: 5000.0
@@ -430,7 +441,7 @@
       blacklist: []
     RS:
       whitelist:
-      - RS
+        - RS
 - title: Aztec Magic Megaways
   identifier: softswiss:AztecMagicMegaways
   identifier2: AztecMagicMegaways
@@ -442,11 +453,11 @@
   feature_group: new
   customised: false
   devices:
-  - desktop
-  - mobile
+    - desktop
+    - mobile
   licenses:
-  - CW
-  - MT
+    - CW
+    - MT
   jackpot_type: Not Available
   forbid_bonus_play: false
   payout: 96.69
@@ -460,7 +471,7 @@
       blacklist: []
     RS:
       whitelist:
-      - RS
+        - RS
 - title: Beast Band
   identifier: softswiss:BeastBand
   identifier2: BeastBand
@@ -472,11 +483,11 @@
   feature_group: new
   customised: false
   devices:
-  - desktop
-  - mobile
+    - desktop
+    - mobile
   licenses:
-  - CW
-  - MT
+    - CW
+    - MT
   jackpot_type: Not Available
   forbid_bonus_play: false
   lines: 25
@@ -491,7 +502,7 @@
       blacklist: []
     RS:
       whitelist:
-      - RS
+        - RS
 - title: Beer Bonanza
   identifier: softswiss:BeerBonanza
   identifier2: BeerBonanza
@@ -503,12 +514,12 @@
   feature_group: standard
   customised: false
   devices:
-  - desktop
-  - mobile
+    - desktop
+    - mobile
   licenses:
-  - CW
-  - GR
-  - RO
+    - CW
+    - GR
+    - RO
   jackpot_type: Not Available
   forbid_bonus_play: false
   payout: 96.0
@@ -522,7 +533,7 @@
       blacklist: []
     RS:
       whitelist:
-      - RS
+        - RS
 - title: Big Atlantis Frenzy
   identifier: softswiss:BigAtlantisFrenzy
   identifier2: BigAtlantisFrenzy
@@ -534,11 +545,11 @@
   feature_group: new
   customised: false
   devices:
-  - desktop
-  - mobile
+    - desktop
+    - mobile
   licenses:
-  - CW
-  - MT
+    - CW
+    - MT
   jackpot_type: Not Available
   forbid_bonus_play: false
   lines: 20
@@ -553,7 +564,7 @@
       blacklist: []
     RS:
       whitelist:
-      - RS
+        - RS
 - title: Multihand Blackjack Pro
   identifier: softswiss:BlackjackPro
   identifier2: BlackjackPro
@@ -565,16 +576,17 @@
   feature_group: basic
   customised: false
   devices:
-  - desktop
-  - mobile
+    - desktop
+    - mobile
   licenses:
-  - CW
-  - MT
-  - GR
+    - CW
+    - MT
+    - GR
   jackpot_type: Not Available
   forbid_bonus_play: false
   payout: 99.23
-  description: Blackjack Pro is a variation of Blackjack with increased payout ratio
+  description:
+    Blackjack Pro is a variation of Blackjack with increased payout ratio
     and one of the lowest houseedges for any casino game. It originates from the Las
     Vegas Strip set of rules from in Las Vegascasinos back in the 1970s.This one is
     played with 6 decks, each with a card count of 52. The player can make a prior
@@ -592,7 +604,7 @@
       blacklist: []
     RS:
       whitelist:
-      - RS
+        - RS
 - title: Bob's Coffee Shop
   identifier: softswiss:BobsCoffeeShop
   identifier2: BobsCoffeeShop
@@ -604,17 +616,18 @@
   feature_group: basic
   customised: false
   devices:
-  - desktop
-  - mobile
+    - desktop
+    - mobile
   licenses:
-  - MT
-  - CW
-  - GR
+    - MT
+    - CW
+    - GR
   jackpot_type: Not Available
   forbid_bonus_play: false
   lines: 10
   payout: 96.5
-  description: Bob's Coffee Shop is a slot with 5 reels and 10 paylines. The main
+  description:
+    Bob's Coffee Shop is a slot with 5 reels and 10 paylines. The main
     character of this game is Bob,who knows all the pleasures of life, just cheerful
     and funny guy, a big fun of Bob Marley by the way.Playing this game you never
     get bored! Relaxing background music, bright colors, smiling Bob andhis best friend
@@ -628,7 +641,7 @@
       blacklist: []
     RS:
       whitelist:
-      - RS
+        - RS
 - title: Bonanza Billion
   identifier: softswiss:BonanzaBillion
   identifier2: BonanzaBillion
@@ -640,16 +653,17 @@
   feature_group: new
   customised: false
   devices:
-  - desktop
-  - mobile
+    - desktop
+    - mobile
   licenses:
-  - CW
-  - BY
-  - MT
+    - CW
+    - BY
+    - MT
   jackpot_type: Not Available
   forbid_bonus_play: false
   payout: 96.0
-  description: "Christmas is coming and it’s high time to get ready for the most magical
+  description:
+    "Christmas is coming and it’s high time to get ready for the most magical
     holiday in a year! What is the best way to convey the atmosphere of Christmas?
     That’s right, by bringing the holiday's mood into the good old classics. Gather
     around a lovely Bonanza game, this time Xmas edition and feel the vibe of the
@@ -664,7 +678,7 @@
       blacklist: []
     RS:
       whitelist:
-      - RS
+        - RS
 - title: Bone Bonanza
   identifier: softswiss:BoneBonanza
   identifier2: BoneBonanza
@@ -676,11 +690,11 @@
   feature_group: new
   customised: false
   devices:
-  - desktop
-  - mobile
+    - desktop
+    - mobile
   licenses:
-  - CW
-  - MT
+    - CW
+    - MT
   jackpot_type: Not Available
   forbid_bonus_play: false
   payout: 96.0
@@ -694,7 +708,7 @@
       blacklist: []
     RS:
       whitelist:
-      - RS
+        - RS
 - title: Book Of Cats
   identifier: softswiss:BookOfCats
   identifier2: BookOfCats
@@ -706,32 +720,33 @@
   feature_group: new
   customised: false
   devices:
-  - desktop
-  - mobile
+    - desktop
+    - mobile
   licenses:
-  - BY
-  - BE
-  - BG
-  - EE
-  - GR
-  - MT
-  - RS
-  - CW
+    - BY
+    - BE
+    - BG
+    - EE
+    - GR
+    - MT
+    - RS
+    - CW
   jackpot_type: Not Available
   forbid_bonus_play: false
   lines: 10
   payout: 94.0
-  description: 'The slot Book of Cats will take the player back through ages when
+  description:
+    "The slot Book of Cats will take the player back through ages when
     gods and goddesses stillwalked the earth. BGaming has created an opulent and luxurious
     feel in the slot with golden,treasure-like symbols and graphics. The greatest
     characters of the mystical history have beenillustrated in the Book of Cats slot,
     for example: The Cat Queen, Bastet and the magic Mask, whichcomes alive. In addition,
     the player meets the Golden Book in the role of Scatter and Wild symbolin the
     game. This symbol gives enormous opportunities to win big, as it starts free spins
-    that canbe re-triggered. We can''t but mention the surprisingly pleasant feature
-    of the main game, wherethe 6th reel is waiting to be wide opened. So let''s start
+    that canbe re-triggered. We can't but mention the surprisingly pleasant feature
+    of the main game, wherethe 6th reel is waiting to be wide opened. So let's start
     spinning the reels and open up a world ofgolden treasure that will bring glory
-    and gold.'
+    and gold."
   volatility_rating: very-high
   hd: true
   bonus_buy: true
@@ -741,7 +756,7 @@
       blacklist: []
     RS:
       whitelist:
-      - RS
+        - RS
 - title: Book Of Cats Megaways
   identifier: softswiss:BookOfCatsMegaways
   identifier2: BookOfCatsMegaways
@@ -753,12 +768,12 @@
   feature_group: new
   customised: false
   devices:
-  - desktop
-  - mobile
+    - desktop
+    - mobile
   licenses:
-  - BY
-  - CW
-  - MT
+    - BY
+    - CW
+    - MT
   jackpot_type: Not Available
   forbid_bonus_play: false
   payout: 96.95
@@ -772,7 +787,7 @@
       blacklist: []
     RS:
       whitelist:
-      - RS
+        - RS
 - title: Book of Kemet
   identifier: softswiss:BookOfKemet
   identifier2: BookOfKemet
@@ -784,10 +799,10 @@
   feature_group: standard
   customised: false
   devices:
-  - desktop
-  - mobile
+    - desktop
+    - mobile
   licenses:
-  - CW
+    - CW
   jackpot_type: Not Available
   forbid_bonus_play: false
   lines: 10
@@ -802,7 +817,7 @@
       blacklist: []
     RS:
       whitelist:
-      - RS
+        - RS
 - title: Book of Panda Megaways
   identifier: softswiss:BookOfPanda
   identifier2: BookOfPanda
@@ -814,11 +829,11 @@
   feature_group: new
   customised: false
   devices:
-  - desktop
-  - mobile
+    - desktop
+    - mobile
   licenses:
-  - CW
-  - MT
+    - CW
+    - MT
   jackpot_type: Not Available
   forbid_bonus_play: false
   payout: 96.95
@@ -832,7 +847,7 @@
       blacklist: []
     RS:
       whitelist:
-      - RS
+        - RS
 - title: Book of Pyramids
   identifier: softswiss:BookOfPyramids
   identifier2: BookOfPyramids
@@ -844,19 +859,20 @@
   feature_group: basic
   customised: false
   devices:
-  - desktop
-  - mobile
+    - desktop
+    - mobile
   licenses:
-  - BY
-  - CW
-  - GR
-  - MT
-  - RO
+    - BY
+    - CW
+    - GR
+    - MT
+    - RO
   jackpot_type: Not Available
   forbid_bonus_play: false
   lines: 9
   payout: 97.13
-  description: Book of Pyramids is a full HD 5-reel non-progressive 9 payline slot
+  description:
+    Book of Pyramids is a full HD 5-reel non-progressive 9 payline slot
     devoted toAncient Egypt and featuring its traditional characters and symbols.Tutankhamen,
     Bastet the Goddess of Cats, the Eye of Ra, and Ankh, Symbolof eternal life, accompany
     the player into the world of Gods and Pharaohs.Scarab standing for a Special symbol
@@ -869,7 +885,7 @@
       blacklist: []
     RS:
       whitelist:
-      - RS
+        - RS
 - title: Brave Viking
   identifier: softswiss:BraveViking
   identifier2: BraveViking
@@ -881,23 +897,24 @@
   feature_group: basic
   customised: false
   devices:
-  - desktop
-  - mobile
+    - desktop
+    - mobile
   licenses:
-  - CW
-  - MT
-  - GR
-  - RO
+    - CW
+    - MT
+    - GR
+    - RO
   jackpot_type: Not Available
   forbid_bonus_play: false
   lines: 9
   payout: 97.09
-  description: 'Brave Viking is a Nordic fantasy type of slot displaying Vikings andall
+  description:
+    "Brave Viking is a Nordic fantasy type of slot displaying Vikings andall
     attributes of this history period: brutal warrior as a Wild, Rune as aScatter,
     as well as read-haired beauty and crossed axes toaccomplish the theme. The most
     exciting bonus game in which youneed to guess which of the three ships is coming
-    first won''t leavereal gamblers indifferent. The game is now available in HTML5
-    andcan be played on any mobile device!'
+    first won't leavereal gamblers indifferent. The game is now available in HTML5
+    andcan be played on any mobile device!"
   volatility_rating: medium-high
   hd: true
   multiplier: 6000.0
@@ -906,7 +923,7 @@
       blacklist: []
     RS:
       whitelist:
-      - RS
+        - RS
 - title: Burning Chilli X
   identifier: softswiss:BurningChilliX
   identifier2: BurningChilliX
@@ -918,11 +935,11 @@
   feature_group: new
   customised: false
   devices:
-  - desktop
-  - mobile
+    - desktop
+    - mobile
   licenses:
-  - CW
-  - MT
+    - CW
+    - MT
   jackpot_type: Not Available
   forbid_bonus_play: false
   lines: 100
@@ -936,7 +953,7 @@
       blacklist: []
     RS:
       whitelist:
-      - RS
+        - RS
 - title: Candy Monsta
   identifier: softswiss:CandyMonsta
   identifier2: CandyMonsta
@@ -948,17 +965,18 @@
   feature_group: new
   customised: false
   devices:
-  - desktop
-  - mobile
+    - desktop
+    - mobile
   licenses:
-  - CW
-  - GR
-  - MT
+    - CW
+    - GR
+    - MT
   jackpot_type: Not Available
   forbid_bonus_play: false
   lines: 20
   payout: 94.06
-  description: "Less spooky moments, more sweet gifts! BGaming is going to celebrate
+  description:
+    "Less spooky moments, more sweet gifts! BGaming is going to celebrate
     Halloween all year long! Candy Monsta, the new slot in the brand’s lineup, shares
     festive vibes with players. Collect all sweets with a cute Candy Monsta!\r\n\r\nColorful
     candy is the Wild symbol in the game. It transforms into any symbol to complete
@@ -975,7 +993,7 @@
       blacklist: []
     RS:
       whitelist:
-      - RS
+        - RS
 - title: Cherry Fiesta
   identifier: softswiss:CherryFiesta
   identifier2: CherryFiesta
@@ -987,15 +1005,16 @@
   feature_group: basic
   customised: false
   devices:
-  - desktop
-  - mobile
+    - desktop
+    - mobile
   licenses:
-  - CW
+    - CW
   jackpot_type: Not Available
   forbid_bonus_play: false
   lines: 9
   payout: 96.98
-  description: Cherry Fiesta is a fruit-themed video slot game with 5 reels and 9
+  description:
+    Cherry Fiesta is a fruit-themed video slot game with 5 reels and 9
     paylines which involves 13 different symbols. In addition to glittering fruits,the
     slot also features a gorgeous Cherry Girl as Scatter and Cherrybasket as a Wild.
     The game offers a variety of bonus features such as30, 40 and 50 free spins triggered
@@ -1010,7 +1029,7 @@
       blacklist: []
     RS:
       whitelist:
-      - RS
+        - RS
 - title: Clover Bonanza
   identifier: softswiss:CloverBonanza
   identifier2: CloverBonanza
@@ -1022,15 +1041,16 @@
   feature_group: new
   customised: false
   devices:
-  - desktop
-  - mobile
+    - desktop
+    - mobile
   licenses:
-  - CW
-  - MT
+    - CW
+    - MT
   jackpot_type: Not Available
   forbid_bonus_play: false
   payout: 96.0
-  description: Clover Bonanza - is an entertaining slot that can boast of a row of
+  description:
+    Clover Bonanza - is an entertaining slot that can boast of a row of
     amazing bonuses and marvelous features. Free spins, Scatter symbols, refilling
     and many more exciting features won’t leave any player indifferent. Bright color
     and spectacular graphics all-in-all a perfect match for any fortune-tempter!
@@ -1044,7 +1064,7 @@
       blacklist: []
     RS:
       whitelist:
-      - RS
+        - RS
 - title: Crazy Starter
   identifier: softswiss:CrazyStarter
   identifier2: CrazyStarter
@@ -1056,18 +1076,19 @@
   feature_group: basic
   customised: false
   devices:
-  - desktop
-  - mobile
+    - desktop
+    - mobile
   licenses:
-  - CW
-  - MT
-  - GR
-  - RO
+    - CW
+    - MT
+    - GR
+    - RO
   jackpot_type: Not Available
   forbid_bonus_play: false
   lines: 25
   payout: 96.04
-  description: Crazy Starter is a fruit and vegetable-themed 5-reel non-progressive
+  description:
+    Crazy Starter is a fruit and vegetable-themed 5-reel non-progressive
     25 payline slot. The reels arepacked with a variety of fruit and vegetables, each
     having its one character and mood. The gameboasts a special Free Spin button featuring
     a happy worm to activate 15 free spins.
@@ -1079,7 +1100,7 @@
       blacklist: []
     RS:
       whitelist:
-      - RS
+        - RS
 - title: Deep Sea
   identifier: softswiss:DeepSea
   identifier2: DeepSea
@@ -1091,24 +1112,25 @@
   feature_group: basic
   customised: false
   devices:
-  - desktop
-  - mobile
+    - desktop
+    - mobile
   licenses:
-  - CW
-  - MT
-  - GR
-  - BY
+    - CW
+    - MT
+    - GR
+    - BY
   jackpot_type: Not Available
   forbid_bonus_play: false
   lines: 15
   payout: 94.0
-  description: 'Meet a superbly crafted video slot from BGaming - Deep Sea, standingout
+  description:
+    "Meet a superbly crafted video slot from BGaming - Deep Sea, standingout
     from the crowd and giving an exceptional psychedelic feel. It ispacked with muted
     neon colours, dancing on the waves underwatercreatures and deep dark features
     in the inky, black stillness. All worktogether to create an immersive, relaxing
     effect. This 5-reel slot with 15paylines has brilliant features: free spins, scatters
-    and additional wilds,that might interest a slots'' enthusiast who is looking for
-    a traditional game that looks special and gives big wins.'
+    and additional wilds,that might interest a slots' enthusiast who is looking for
+    a traditional game that looks special and gives big wins."
   volatility_rating: low
   hd: true
   multiplier: 35000.0
@@ -1117,7 +1139,7 @@
       blacklist: []
     RS:
       whitelist:
-      - RS
+        - RS
 - title: Desert Treasure
   identifier: softswiss:DesertTreasure
   identifier2: DesertTreasure
@@ -1129,22 +1151,23 @@
   feature_group: basic
   customised: false
   devices:
-  - desktop
-  - mobile
+    - desktop
+    - mobile
   licenses:
-  - CW
-  - MT
-  - GR
+    - CW
+    - MT
+    - GR
   jackpot_type: Not Available
   forbid_bonus_play: false
   lines: 9
   payout: 95.95
-  description: 'Desert Treasure is a full HD 5-reel 9-payline slot based onthe theme
+  description:
+    "Desert Treasure is a full HD 5-reel 9-payline slot based onthe theme
     of the Middle Eastern folk tale of Aladdin. Theregular symbols that appear on
     the reels are all related toAncient Arabs lifestyle: crossed swords, ancient coins,Arab
     letters, and the enchanted oil lamp. Accompanied byauthentic music, they create
     a feeling that you are one ofthe tale protagonists. The game offers unusual bonusfeatures,
-    such as triple wins in free spins triggered by theArab Warrior Scatter symbol.'
+    such as triple wins in free spins triggered by theArab Warrior Scatter symbol."
   volatility_rating: medium
   hd: true
   multiplier: 8000.0
@@ -1153,7 +1176,7 @@
       blacklist: []
     RS:
       whitelist:
-      - RS
+        - RS
 - title: Dice Bonanza
   identifier: softswiss:DiceBonanza
   identifier2: DiceBonanza
@@ -1165,11 +1188,11 @@
   feature_group: new
   customised: true
   devices:
-  - desktop
-  - mobile
+    - desktop
+    - mobile
   licenses:
-  - CW
-  - MT
+    - CW
+    - MT
   jackpot_type: Not Available
   forbid_bonus_play: false
   payout: 96.0
@@ -1183,7 +1206,7 @@
       blacklist: []
     RS:
       whitelist:
-      - RS
+        - RS
 - title: Dice Million
   identifier: softswiss:DiceMillion
   identifier2: DiceMillion
@@ -1195,11 +1218,11 @@
   feature_group: new
   customised: false
   devices:
-  - desktop
-  - mobile
+    - desktop
+    - mobile
   licenses:
-  - CW
-  - MT
+    - CW
+    - MT
   jackpot_type: Not Available
   forbid_bonus_play: false
   lines: 100
@@ -1213,7 +1236,7 @@
       blacklist: []
     RS:
       whitelist:
-      - RS
+        - RS
 - title: Dig Dig Digger
   identifier: softswiss:DigDigDigger
   identifier2: DigDigDigger
@@ -1225,17 +1248,18 @@
   feature_group: new
   customised: false
   devices:
-  - desktop
-  - mobile
+    - desktop
+    - mobile
   licenses:
-  - BY
-  - CW
-  - MT
+    - BY
+    - CW
+    - MT
   jackpot_type: Not Available
   forbid_bonus_play: false
   lines: 10
   payout: 94.82
-  description: It is said that the golden sands of the Egyptian deserts still hide
+  description:
+    It is said that the golden sands of the Egyptian deserts still hide
     the treasures of the ancient civilization. Only brave and… lucky can find them!
     BGaming goes in search of riches in the Dig Dig Digger slot! Join the crazy archeologist
     looking for wealth in the heart of Egypt! The charismatic and hilarious character
@@ -1250,7 +1274,7 @@
       blacklist: []
     RS:
       whitelist:
-      - RS
+        - RS
 - title: Domnitors
   identifier: softswiss:Domnitors
   identifier2: Domnitors
@@ -1262,23 +1286,24 @@
   feature_group: basic
   customised: false
   devices:
-  - desktop
-  - mobile
+    - desktop
+    - mobile
   licenses:
-  - CW
-  - MT
-  - GR
-  - RO
+    - CW
+    - MT
+    - GR
+    - RO
   jackpot_type: Not Available
   forbid_bonus_play: false
   lines: 9
   payout: 97.3
-  description: 'This 9 paylines slot Domnitors slot game draws inspiration from Romanian
+  description:
+    "This 9 paylines slot Domnitors slot game draws inspiration from Romanian
     medieval history. Thesymbols of the reels are connected with the historical background
     of the slot. They depict medievalweapons, execution tools, historical Romanian
     castles and, most importantly, the three mostoutstanding rulers of the period:
     John Hunyadi of Transylvania, Stephen the Great of Moldavia, and Vlad the Impaler
-    of Walachia.'
+    of Walachia."
   volatility_rating: low
   hd: true
   multiplier: 10000.0
@@ -1287,7 +1312,7 @@
       blacklist: []
     RS:
       whitelist:
-      - RS
+        - RS
 - title: Domnitors Deluxe
   identifier: softswiss:DomnitorsDeluxe
   identifier2: DomnitorsDeluxe
@@ -1299,17 +1324,18 @@
   feature_group: basic
   customised: false
   devices:
-  - desktop
-  - mobile
+    - desktop
+    - mobile
   licenses:
-  - CW
-  - MT
-  - GR
+    - CW
+    - MT
+    - GR
   jackpot_type: Not Available
   forbid_bonus_play: false
   lines: 9
   payout: 97.31
-  description: Domnitors Deluxe slot takes players to the brutal Medieval times where
+  description:
+    Domnitors Deluxe slot takes players to the brutal Medieval times where
     the main charactersrepresented by John Hunyadi, Stephen the Great and Vlad the
     Impaler use their military strategiesto survive and conquer new territories. This
     graphically updated, animated 5-reel, 3-row video slotwith Vlad as Wild Symbol
@@ -1324,7 +1350,7 @@
       blacklist: []
     RS:
       whitelist:
-      - RS
+        - RS
 - title: Domnitor's Treasure
   identifier: softswiss:DomnitorsTreasure
   identifier2: DomnitorsTreasure
@@ -1336,11 +1362,11 @@
   feature_group: new
   customised: false
   devices:
-  - desktop
-  - mobile
+    - desktop
+    - mobile
   licenses:
-  - CW
-  - MT
+    - CW
+    - MT
   jackpot_type: Not Available
   forbid_bonus_play: false
   lines: 25
@@ -1355,7 +1381,7 @@
       blacklist: []
     RS:
       whitelist:
-      - RS
+        - RS
 - title: Dragon's Gold 100
   identifier: softswiss:DragonsGold100
   identifier2: DragonsGold100
@@ -1367,16 +1393,17 @@
   feature_group: new
   customised: false
   devices:
-  - desktop
-  - mobile
+    - desktop
+    - mobile
   licenses:
-  - CW
-  - MT
+    - CW
+    - MT
   jackpot_type: Not Available
   forbid_bonus_play: false
   lines: 100
   payout: 96.9
-  description: BGaming invites players on a journey to the mysterious East! Brand’s
+  description:
+    BGaming invites players on a journey to the mysterious East! Brand’s
     new slot called Dragon’s gold 100 received into itself the most recognizable and
     unique attributes which Asia famous for! Eastern Dragon, also known as Loong,
     is a legendary creature in Asian mythology. Being the key figure in the game,
@@ -1396,7 +1423,7 @@
       blacklist: []
     RS:
       whitelist:
-      - RS
+        - RS
 - title: Easter Heist
   identifier: softswiss:EasterHeist
   identifier2: EasterHeist
@@ -1408,10 +1435,10 @@
   feature_group: standard
   customised: false
   devices:
-  - desktop
-  - mobile
+    - desktop
+    - mobile
   licenses:
-  - CW
+    - CW
   jackpot_type: In game
   forbid_bonus_play: false
   lines: 25
@@ -1427,7 +1454,7 @@
       blacklist: []
     RS:
       whitelist:
-      - RS
+        - RS
 - title: Easter Plinko
   identifier: softswiss:EasterPlinko
   identifier2: EasterPlinko
@@ -1439,10 +1466,10 @@
   feature_group: standard
   customised: true
   devices:
-  - desktop
-  - mobile
+    - desktop
+    - mobile
   licenses:
-  - CW
+    - CW
   jackpot_type: Not Available
   forbid_bonus_play: false
   payout: 99.0
@@ -1454,7 +1481,7 @@
       blacklist: []
     RS:
       whitelist:
-      - RS
+        - RS
 - title: Elvis Frog in Vegas
   identifier: softswiss:ElvisFroginVegas
   identifier2: ElvisFrog
@@ -1466,22 +1493,23 @@
   feature_group: new
   customised: false
   devices:
-  - desktop
-  - mobile
+    - desktop
+    - mobile
   licenses:
-  - BY
-  - BE
-  - BG
-  - EE
-  - GR
-  - MT
-  - RS
-  - CW
+    - BY
+    - BE
+    - BG
+    - EE
+    - GR
+    - MT
+    - RS
+    - CW
   jackpot_type: Not Available
   forbid_bonus_play: false
   lines: 25
   payout: 96.0
-  description: Elvis Frog in Vegas is a slot that associates with plenty of marvelous
+  description:
+    Elvis Frog in Vegas is a slot that associates with plenty of marvelous
     music and rock and roll. Thegame has five reels, three rows and 25 paylines with
     free spins, respins and a special bonus roundwhere a player can hit a Major and
     Mega Jackpots with a Tutti-Frutti Feature. In addition to theamazing assets of
@@ -1497,7 +1525,7 @@
       blacklist: []
     RS:
       whitelist:
-      - RS
+        - RS
 - title: Elvis Frog TRUEWAYS
   identifier: softswiss:ElvisFrogTrueways
   identifier2: ElvisFrogTrueways
@@ -1509,12 +1537,12 @@
   feature_group: new
   customised: false
   devices:
-  - desktop
-  - mobile
+    - desktop
+    - mobile
   licenses:
-  - CW
-  - GR
-  - MT
+    - CW
+    - GR
+    - MT
   jackpot_type: Not Available
   forbid_bonus_play: false
   payout: 97.0
@@ -1528,7 +1556,7 @@
       blacklist: []
     RS:
       whitelist:
-      - RS
+        - RS
 - title: European Roulette
   identifier: softswiss:EuropeanRoulette
   identifier2: EuropeanRoulette
@@ -1540,17 +1568,18 @@
   feature_group: basic
   customised: false
   devices:
-  - desktop
-  - mobile
+    - desktop
+    - mobile
   licenses:
-  - CW
-  - MT
-  - GR
-  - RO
+    - CW
+    - MT
+    - GR
+    - RO
   jackpot_type: Not Available
   forbid_bonus_play: false
   payout: 97.3
-  description: 'Roulette''s simple but highly attractive gameplay won its deserved
+  description:
+    "Roulette's simple but highly attractive gameplay won its deserved
     popularity among gamblinghouses and saloons which later on transformed into land-based
     casinos as we know them today.Just try to think up one without a roulette table
     instantly popping up in the mind. Impossible!Increased chances of winning are
@@ -1560,15 +1589,15 @@
     alsodifferent. What is more to notice, there is a huge space for racetrack bets
     to add to the generalinside and outside bets: Vousins du Zero, Black Splites,
     Red Splites and Tiers du Cylindre. Therules are always at hand within the game.
-    Spin the wheel indefinitely  thus a believable theory ofthe roulette''s invention
-    during the searches of perpetuum mobile will be proved!'
+    Spin the wheel indefinitely  thus a believable theory ofthe roulette's invention
+    during the searches of perpetuum mobile will be proved!"
   hd: true
   restrictions:
     default:
       blacklist: []
     RS:
       whitelist:
-      - RS
+        - RS
 - title: Fantasy Park
   identifier: softswiss:FantasyPark
   identifier2: FantasyPark
@@ -1580,18 +1609,19 @@
   feature_group: basic
   customised: false
   devices:
-  - desktop
-  - mobile
+    - desktop
+    - mobile
   licenses:
-  - CW
-  - GR
-  - MT
-  - RO
+    - CW
+    - GR
+    - MT
+    - RO
   jackpot_type: Not Available
   forbid_bonus_play: false
   lines: 25
   payout: 96.65
-  description: Fantasy Park is a slot game recreating the atmosphereof an amusement
+  description:
+    Fantasy Park is a slot game recreating the atmosphereof an amusement
     park with its roller coasters, ferriswheels and cotton candy. The slot has 5 reels
     and 9paylines. A special bonus feature is the Expanding Wildsubstituting any Scatter
     and awarding you with 10 freespins if you trigger two Expanding Wilds at once.
@@ -1603,7 +1633,7 @@
       blacklist: []
     RS:
       whitelist:
-      - RS
+        - RS
 - title: Fire Lightning
   identifier: softswiss:FireLightning
   identifier2: FireLightning
@@ -1615,26 +1645,27 @@
   feature_group: basic
   customised: false
   devices:
-  - desktop
-  - mobile
+    - desktop
+    - mobile
   licenses:
-  - BY
-  - CW
-  - MT
+    - BY
+    - CW
+    - MT
   jackpot_type: Not Available
   forbid_bonus_play: false
   lines: 20
   payout: 93.9
-  description: 'Fire Lightning is a full HD 5 reel non-progressive 20payline slot.
+  description:
+    "Fire Lightning is a full HD 5 reel non-progressive 20payline slot.
     The theme of the slot is based on themotives of ancient Greek mythology. Figures
     from Greekmythology, such as Zeus, Themis, Ares and Hephaestusare represented
     in the game. The gameplay takes placeon the background of Olympus - the sacred
-    mountain,the place of the gods'' residence, headed by Zeus. Inancient Greek mythology
+    mountain,the place of the gods' residence, headed by Zeus. Inancient Greek mythology
     Zeus is the god of lightning, thunder and heaven. Lightning is the mainweapon
     and the main attribute of the supreme god.Game is packed with special features
     which make the game more attractive to the users: scatterswhich multiply winnings
     by total bets, wild symbols, bonuses, free spins with frozen wild symbols and
-    a gambling round.'
+    a gambling round."
   volatility_rating: medium-high
   hd: true
   multiplier: 1000.0
@@ -1643,7 +1674,7 @@
       blacklist: []
     RS:
       whitelist:
-      - RS
+        - RS
 - title: Forty Fruity Million
   identifier: softswiss:FortyFruityMillion
   identifier2: FortyFruityMillion
@@ -1655,13 +1686,13 @@
   feature_group: new
   customised: false
   devices:
-  - desktop
-  - mobile
+    - desktop
+    - mobile
   licenses:
-  - BY
-  - CW
-  - GR
-  - MT
+    - BY
+    - CW
+    - GR
+    - MT
   jackpot_type: Not Available
   forbid_bonus_play: false
   lines: 40
@@ -1675,7 +1706,7 @@
       blacklist: []
     RS:
       whitelist:
-      - RS
+        - RS
 - title: Four Lucky Clover
   identifier: softswiss:FourLuckyClover
   identifier2: FourLuckyClover
@@ -1687,22 +1718,23 @@
   feature_group: new
   customised: false
   devices:
-  - desktop
-  - mobile
+    - desktop
+    - mobile
   licenses:
-  - BY
-  - BE
-  - BG
-  - EE
-  - GR
-  - MT
-  - RS
-  - CW
+    - BY
+    - BE
+    - BG
+    - EE
+    - GR
+    - MT
+    - RS
+    - CW
   jackpot_type: Not Available
   forbid_bonus_play: false
   lines: 10
   payout: 94.0
-  description: Four Lucky Clover is a slot inspired by a classy Irish vibes. The game
+  description:
+    Four Lucky Clover is a slot inspired by a classy Irish vibes. The game
     has five reels,three rows and 10 paylines with bonus round and features that are
     both entertainingand engaging for players. The highlights of the game are the
     lucky spins, stacked wildfeatures and like a cherry on top - the 4 reels bonus
@@ -1718,7 +1750,7 @@
       blacklist: []
     RS:
       whitelist:
-      - RS
+        - RS
 - title: Four Lucky Diamonds
   identifier: softswiss:FourLuckyDiamonds
   identifier2: FourLuckyDiamonds
@@ -1730,18 +1762,19 @@
   feature_group: new
   customised: false
   devices:
-  - desktop
-  - mobile
+    - desktop
+    - mobile
   licenses:
-  - EE
-  - GR
-  - MT
-  - CW
+    - EE
+    - GR
+    - MT
+    - CW
   jackpot_type: Not Available
   forbid_bonus_play: false
   lines: 10
   payout: 94.0
-  description: "“Diamonds are a girl’s best friend…” You’ve probably heard the famous
+  description:
+    "“Diamonds are a girl’s best friend…” You’ve probably heard the famous
     saying before. It’s time to dispel the stereotype! Four Lucky Diamonds by BGaming
     is created to make every player happy. The 5х3 scheme video slot is a mix of colourful
     gems and classical gambling symbols such as bells, stars, and the number 7. Collect
@@ -1754,7 +1787,7 @@
       blacklist: []
     RS:
       whitelist:
-      - RS
+        - RS
 - title: French Roulette
   identifier: softswiss:FrenchRoulette
   identifier2: FrenchRoulette
@@ -1766,18 +1799,19 @@
   feature_group: basic
   customised: false
   devices:
-  - desktop
-  - mobile
+    - desktop
+    - mobile
   licenses:
-  - CW
-  - MT
-  - GR
-  - RO
-  - BY
+    - CW
+    - MT
+    - GR
+    - RO
+    - BY
   jackpot_type: Not Available
   forbid_bonus_play: false
   payout: 97.3
-  description: The French roulette rules have a distinguishing feature of La Partage
+  description:
+    The French roulette rules have a distinguishing feature of La Partage
     which stands for returning the bets of even value in case the winning number is
     0. The relaxing soundtrack mixed with soft crowd chatter in the background will
     immerse you into the atmosphere of a real brick-and-mortar casino. Select the
@@ -1788,7 +1822,7 @@
       blacklist: []
     RS:
       whitelist:
-      - RS
+        - RS
 - title: Fruit Million
   identifier: softswiss:FruitMillion
   identifier2: FruitMillion
@@ -1800,17 +1834,18 @@
   feature_group: new
   customised: false
   devices:
-  - desktop
-  - mobile
+    - desktop
+    - mobile
   licenses:
-  - EE
-  - MT
-  - CW
+    - EE
+    - MT
+    - CW
   jackpot_type: Not Available
   forbid_bonus_play: false
   lines: 100
   payout: 97.1
-  description: Classics is always a trend, - thought BGaming's team and decided to
+  description:
+    Classics is always a trend, - thought BGaming's team and decided to
     create one more fascinating traditional-style slot�� A few weeks and here it is!
     BGaming invites you to the Fruit Million slot! One hundred paylines and millions
     of chances to win are hidden in this game. Try to catch them all! On your way
@@ -1827,7 +1862,7 @@
       blacklist: []
     RS:
       whitelist:
-      - RS
+        - RS
 - title: Gangsterz
   identifier: softswiss:Gangsterz
   identifier2: Gangsterz
@@ -1839,10 +1874,10 @@
   feature_group: standard
   customised: false
   devices:
-  - desktop
-  - mobile
+    - desktop
+    - mobile
   licenses:
-  - CW
+    - CW
   jackpot_type: Not Available
   forbid_bonus_play: false
   payout: 96.25
@@ -1856,7 +1891,7 @@
       blacklist: []
     RS:
       whitelist:
-      - RS
+        - RS
 - title: Gemhalla
   identifier: softswiss:Gemhalla
   identifier2: Gemhalla
@@ -1868,11 +1903,11 @@
   feature_group: new
   customised: false
   devices:
-  - desktop
-  - mobile
+    - desktop
+    - mobile
   licenses:
-  - CW
-  - MT
+    - CW
+    - MT
   jackpot_type: Not Available
   forbid_bonus_play: false
   lines: 27
@@ -1887,7 +1922,7 @@
       blacklist: []
     RS:
       whitelist:
-      - RS
+        - RS
 - title: Gemza
   identifier: softswiss:Gemza
   identifier2: Gemza
@@ -1899,10 +1934,10 @@
   feature_group: new
   customised: false
   devices:
-  - desktop
-  - mobile
+    - desktop
+    - mobile
   licenses:
-  - CW
+    - CW
   jackpot_type: Not Available
   forbid_bonus_play: false
   payout: 97.17
@@ -1916,7 +1951,7 @@
       blacklist: []
     RS:
       whitelist:
-      - RS
+        - RS
 - title: Gift Rush
   identifier: softswiss:GiftRush
   identifier2: GiftRush
@@ -1928,11 +1963,11 @@
   feature_group: new
   customised: false
   devices:
-  - desktop
-  - mobile
+    - desktop
+    - mobile
   licenses:
-  - CW
-  - MT
+    - CW
+    - MT
   jackpot_type: Not Available
   forbid_bonus_play: false
   lines: 5
@@ -1947,7 +1982,7 @@
       blacklist: []
     RS:
       whitelist:
-      - RS
+        - RS
 - title: Gift X
   identifier: softswiss:GiftX
   identifier2: GiftX
@@ -1959,11 +1994,11 @@
   feature_group: new
   customised: false
   devices:
-  - desktop
-  - mobile
+    - desktop
+    - mobile
   licenses:
-  - CW
-  - MT
+    - CW
+    - MT
   jackpot_type: Not Available
   forbid_bonus_play: false
   payout: 97.0
@@ -1975,7 +2010,7 @@
       blacklist: []
     RS:
       whitelist:
-      - RS
+        - RS
 - title: Gold Rush with Johnny Cash
   identifier: softswiss:GoldRushWithJohnny
   identifier2: GoldRushWithJohnny
@@ -1987,12 +2022,12 @@
   feature_group: standard
   customised: false
   devices:
-  - desktop
-  - mobile
+    - desktop
+    - mobile
   licenses:
-  - CW
-  - GR
-  - MT
+    - CW
+    - GR
+    - MT
   jackpot_type: Not Available
   forbid_bonus_play: false
   lines: 25
@@ -2007,7 +2042,7 @@
       blacklist: []
     RS:
       whitelist:
-      - RS
+        - RS
 - title: Halloween Bonanza
   identifier: softswiss:HalloweenBonanza
   identifier2: HalloweenBonanza
@@ -2019,12 +2054,12 @@
   feature_group: new
   customised: false
   devices:
-  - desktop
-  - mobile
+    - desktop
+    - mobile
   licenses:
-  - CW
-  - GR
-  - MT
+    - CW
+    - GR
+    - MT
   jackpot_type: Not Available
   forbid_bonus_play: false
   payout: 96.0
@@ -2038,7 +2073,7 @@
       blacklist: []
     RS:
       whitelist:
-      - RS
+        - RS
 - title: Hawaii Cocktails
   identifier: softswiss:HawaiiCocktails
   identifier2: HawaiiCocktails
@@ -2050,17 +2085,18 @@
   feature_group: basic
   customised: false
   devices:
-  - desktop
-  - mobile
+    - desktop
+    - mobile
   licenses:
-  - CW
-  - GR
-  - MT
+    - CW
+    - GR
+    - MT
   jackpot_type: Not Available
   forbid_bonus_play: false
   lines: 9
   payout: 97.3
-  description: 'Hawaii Cocktails is another colorful slot game from the chill out
+  description:
+    "Hawaii Cocktails is another colorful slot game from the chill out
     series. It steals you away from the routine to put on hot sand by theOcean with
     tropical sun high above and warm breeze in your hair. Feelthe sunshine on your
     face and grab one of those famous cocktails toenjoy the vacation. You deserved
@@ -2070,7 +2106,7 @@
     spins if 3 or more Calibri pop upon the reels. Winning combinations with 3, 4
     and 5 Scatters are multiplied x10, x100 and x1000accordingly.Coconut is a Wild
     and can replace any other symbol on the reels except Scatter. The more Wilds the
-    better: 5 Wilds carry a flabbergasting multiplier of x50000!'
+    better: 5 Wilds carry a flabbergasting multiplier of x50000!"
   volatility_rating: high
   hd: true
   multiplier: 5000.0
@@ -2079,7 +2115,7 @@
       blacklist: []
     RS:
       whitelist:
-      - RS
+        - RS
 - title: Heads and Tails XY
   identifier: softswiss:HeadsandTailsXY
   identifier2: HeadsTailsXY
@@ -2091,12 +2127,12 @@
   feature_group: new
   customised: false
   devices:
-  - desktop
-  - mobile
+    - desktop
+    - mobile
   licenses:
-  - CW
-  - GR
-  - MT
+    - CW
+    - GR
+    - MT
   jackpot_type: Not Available
   forbid_bonus_play: false
   payout: 99.0
@@ -2107,7 +2143,7 @@
       blacklist: []
     RS:
       whitelist:
-      - RS
+        - RS
 - title: Heads and Tails
   identifier: softswiss:HeadsTails
   identifier2: HeadsTails
@@ -2119,19 +2155,20 @@
   feature_group: basic
   customised: false
   devices:
-  - desktop
-  - mobile
+    - desktop
+    - mobile
   licenses:
-  - CW
-  - GR
-  - MT
+    - CW
+    - GR
+    - MT
   jackpot_type: Not Available
   forbid_bonus_play: false
   payout: 98.0
-  description: 'Are you a little on the tired side after having to wrap you headaround
+  description:
+    "Are you a little on the tired side after having to wrap you headaround
     Paylines, Scatters, Wilds and Free Rounds? Then settle infor a game that does
     not stress you with any of that and brings yousheer fun as easy as 1,2... and
-    that''s it, there really is no thirdoption.Heads and Tails is pretty self-explanatory:
+    that's it, there really is no thirdoption.Heads and Tails is pretty self-explanatory:
     a simple coin flip basedon a game perhaps centuries old. The Heads side of the
     coin isrepresented by the minted Bitcoin sign, while the Tails sideresembles an
     ASIC chip on a printed circuit board. Both call backthe origins of Bgaming as
@@ -2140,14 +2177,14 @@
     on the left-hand side and the Tails bet button respectivelyon the right-hand side.It
     really does not get simpler that this. The chances are 50/50 here, and each win
     pays out 1.98Xmaking the house edge as little as 1%. So just toss the coin for
-    big easy wins and tons of fun!'
+    big easy wins and tons of fun!"
   hd: true
   restrictions:
     default:
       blacklist: []
     RS:
       whitelist:
-      - RS
+        - RS
 - title: Hello Easter
   identifier: softswiss:HelloEaster
   identifier2: HelloEaster
@@ -2159,17 +2196,18 @@
   feature_group: basic
   customised: false
   devices:
-  - desktop
-  - mobile
+    - desktop
+    - mobile
   licenses:
-  - CW
-  - GR
-  - MT
+    - CW
+    - GR
+    - MT
   jackpot_type: Not Available
   forbid_bonus_play: false
   lines: 9
   payout: 96.5
-  description: Hello Easter video game will get anyone in the Easter spirit, obviously.
+  description:
+    Hello Easter video game will get anyone in the Easter spirit, obviously.
     This is another classic5-reel slot with 9 paylines, which never fails to keep
     the player interested when it comes to lovelygraphics and playability. While playing
     Hello Easter, a gamer can grab a nice Easter treat in theform of a bonus game
@@ -2186,7 +2224,7 @@
       blacklist: []
     RS:
       whitelist:
-      - RS
+        - RS
 - title: Hit The Route
   identifier: softswiss:HitTheRoute
   identifier2: HitTheRoute
@@ -2198,20 +2236,21 @@
   feature_group: new
   customised: false
   devices:
-  - desktop
-  - mobile
+    - desktop
+    - mobile
   licenses:
-  - BY
-  - BE
-  - BG
-  - EE
-  - MT
-  - CW
+    - BY
+    - BE
+    - BG
+    - EE
+    - MT
+    - CW
   jackpot_type: Not Available
   forbid_bonus_play: false
   lines: 40
   payout: 97.0
-  description: Colorful billboards, retro cars and thousands of miles to make dreams
+  description:
+    Colorful billboards, retro cars and thousands of miles to make dreams
     come true! It's all about our new journey. We invite you to hit the legendary
     Route 66. The main street of America - that's what the road was called decades
     ago - is full of adventures. Connecting stylish Chicago with sunny Los-Angeles,
@@ -2229,7 +2268,7 @@
       blacklist: []
     RS:
       whitelist:
-      - RS
+        - RS
 - title: Ice Scratch Bronze
   identifier: softswiss:IceScratchBronze
   identifier2: IceScratchBronze
@@ -2241,10 +2280,10 @@
   feature_group: standard
   customised: false
   devices:
-  - desktop
-  - mobile
+    - desktop
+    - mobile
   licenses:
-  - CW
+    - CW
   jackpot_type: Not Available
   forbid_bonus_play: false
   payout: 90.0
@@ -2257,7 +2296,7 @@
       blacklist: []
     RS:
       whitelist:
-      - RS
+        - RS
 - title: Ice Scratch Gold
   identifier: softswiss:IceScratchGold
   identifier2: IceScratchGold
@@ -2269,10 +2308,10 @@
   feature_group: standard
   customised: false
   devices:
-  - desktop
-  - mobile
+    - desktop
+    - mobile
   licenses:
-  - CW
+    - CW
   jackpot_type: Not Available
   forbid_bonus_play: false
   payout: 90.0
@@ -2285,7 +2324,7 @@
       blacklist: []
     RS:
       whitelist:
-      - RS
+        - RS
 - title: Ice Scratch Silver
   identifier: softswiss:IceScratchSilver
   identifier2: IceScratchSilver
@@ -2297,10 +2336,10 @@
   feature_group: standard
   customised: false
   devices:
-  - desktop
-  - mobile
+    - desktop
+    - mobile
   licenses:
-  - CW
+    - CW
   jackpot_type: Not Available
   forbid_bonus_play: false
   payout: 90.0
@@ -2313,7 +2352,7 @@
       blacklist: []
     RS:
       whitelist:
-      - RS
+        - RS
 - title: Jogo Do Bicho
   identifier: softswiss:JogoDoBicho
   identifier2: JogoDoBicho
@@ -2325,16 +2364,17 @@
   feature_group: basic
   customised: false
   devices:
-  - desktop
-  - mobile
+    - desktop
+    - mobile
   licenses:
-  - MT
-  - CW
-  - GR
+    - MT
+    - CW
+    - GR
   jackpot_type: Not Available
   forbid_bonus_play: false
   payout: 94.0
-  description: 'Never the process of guessing the draw has been so exciting: welcome
+  description:
+    "Never the process of guessing the draw has been so exciting: welcome
     to Jogo DoBicho, the lottery created exclusively by BGaming to show a fragment
     of Brazilian culture online.The lottery game escaped right from the Zoo in Rio
     De Janeiro to its streets a long time ago andnow it can be played, with a little
@@ -2342,17 +2382,17 @@
     animals, with each of them representing 4 numbers from 00 to 99. So,for example,
     the ostrich was 01/02/03/04, the elephant 45/46/47/48, and so on. Whencustomers
     entered the zoo they purchased a ticket, and the last two digits of the ticketcorresponded
-    to a particular animal. The game rules remained the same to this day, we''ve made
+    to a particular animal. The game rules remained the same to this day, we've made
     this lottery likable and adrenaline rushing keeping the spirit of the past and
     present. So,make a bet on a favorite lucky animal or number and feel all the emotion
-    of the draw.'
+    of the draw."
   hd: true
   restrictions:
     default:
       blacklist: []
     RS:
       whitelist:
-      - RS
+        - RS
 - title: Johnny Cash
   identifier: softswiss:JohnnyCash
   identifier2: JohnnyCash
@@ -2364,21 +2404,22 @@
   feature_group: new
   customised: false
   devices:
-  - desktop
-  - mobile
+    - desktop
+    - mobile
   licenses:
-  - BY
-  - BE
-  - BG
-  - EE
-  - GR
-  - MT
-  - CW
+    - BY
+    - BE
+    - BG
+    - EE
+    - GR
+    - MT
+    - CW
   jackpot_type: Not Available
   forbid_bonus_play: false
   lines: 20
   payout: 96.2
-  description: While the wind is blowing a tumbleweed out of the window, another fight
+  description:
+    While the wind is blowing a tumbleweed out of the window, another fight
     is breaking out in the saloon where whiskey and tequila never stop flowing. Johnny
     Cash won't miss a win, whatever it takes! This is the hero of our new slot - a
     daring adventurer searching for bags full of money and gold. The name of the crazy
@@ -2397,7 +2438,7 @@
       blacklist: []
     RS:
       whitelist:
-      - RS
+        - RS
 - title: Joker Queen
   identifier: softswiss:JokerQueen
   identifier2: JokerQueen
@@ -2409,12 +2450,12 @@
   feature_group: new
   customised: false
   devices:
-  - desktop
-  - mobile
+    - desktop
+    - mobile
   licenses:
-  - BY
-  - CW
-  - MT
+    - BY
+    - CW
+    - MT
   jackpot_type: Not Available
   forbid_bonus_play: false
   lines: 40
@@ -2429,7 +2470,7 @@
       blacklist: []
     RS:
       whitelist:
-      - RS
+        - RS
 - title: Journey Flirt
   identifier: softswiss:JourneyFlirt
   identifier2: JourneyFlirt
@@ -2441,17 +2482,18 @@
   feature_group: basic
   customised: false
   devices:
-  - desktop
-  - mobile
+    - desktop
+    - mobile
   licenses:
-  - MT
-  - CW
-  - GR
+    - MT
+    - CW
+    - GR
   jackpot_type: Not Available
   forbid_bonus_play: false
   ways: 243
   payout: 96.6
-  description: Journey Flirt is the online slot of BGaming beautifully rendered,superbly
+  description:
+    Journey Flirt is the online slot of BGaming beautifully rendered,superbly
     designed for maximum entertainment. Besides its greatlooks, the game can also
     yield spectacular winnings especiallythanks to its remarkable features. Having
     a 5x3 scheme with 243winning lines, the slot provides a huge amount of chances
@@ -2468,7 +2510,7 @@
       blacklist: []
     RS:
       whitelist:
-      - RS
+        - RS
 - title: Limbo XY
   identifier: softswiss:Limbo
   identifier2: Limbo
@@ -2480,10 +2522,10 @@
   feature_group: standard
   customised: false
   devices:
-  - desktop
-  - mobile
+    - desktop
+    - mobile
   licenses:
-  - CW
+    - CW
   jackpot_type: Not Available
   forbid_bonus_play: false
   payout: 97.0
@@ -2495,7 +2537,7 @@
       blacklist: []
     RS:
       whitelist:
-      - RS
+        - RS
 - title: Luck & Magic
   identifier: softswiss:LuckAndMagic
   identifier2: LuckAndMagic
@@ -2507,11 +2549,11 @@
   feature_group: new
   customised: false
   devices:
-  - desktop
-  - mobile
+    - desktop
+    - mobile
   licenses:
-  - CW
-  - MT
+    - CW
+    - MT
   jackpot_type: Not Available
   forbid_bonus_play: false
   lines: 5
@@ -2526,7 +2568,7 @@
       blacklist: []
     RS:
       whitelist:
-      - RS
+        - RS
 - title: Lucky Blue
   identifier: softswiss:LuckyBlue
   identifier2: LuckyBlue
@@ -2538,17 +2580,18 @@
   feature_group: basic
   customised: false
   devices:
-  - desktop
-  - mobile
+    - desktop
+    - mobile
   licenses:
-  - MT
-  - CW
-  - GR
+    - MT
+    - CW
+    - GR
   jackpot_type: Not Available
   forbid_bonus_play: false
   lines: 9
   payout: 96.96
-  description: Inspired by real-world snorkeling and deep sea gold hunting, Lucky
+  description:
+    Inspired by real-world snorkeling and deep sea gold hunting, Lucky
     Blue submerges you into anunderwater adventure. Many a diver have tried to uncover
     the sunken treasures of the deep, butnot all have succeeded. Now is your chance
     to dive into the depths to try your luck at striking gold!Bet on 9 paylines in
@@ -2567,7 +2610,7 @@
       blacklist: []
     RS:
       whitelist:
-      - RS
+        - RS
 - title: Lucky Crew
   identifier: softswiss:LuckyCrew
   identifier2: LuckyCrew
@@ -2579,11 +2622,11 @@
   feature_group: new
   customised: false
   devices:
-  - desktop
-  - mobile
+    - desktop
+    - mobile
   licenses:
-  - CW
-  - MT
+    - CW
+    - MT
   jackpot_type: Not Available
   forbid_bonus_play: false
   lines: 20
@@ -2598,7 +2641,7 @@
       blacklist: []
     RS:
       whitelist:
-      - RS
+        - RS
 - title: Lucky Dama Muerta
   identifier: softswiss:LuckyDamaMuerta
   identifier2: LuckyDamaMuerta
@@ -2610,17 +2653,18 @@
   feature_group: new
   customised: false
   devices:
-  - desktop
-  - mobile
+    - desktop
+    - mobile
   licenses:
-  - CW
-  - GR
-  - MT
+    - CW
+    - GR
+    - MT
   jackpot_type: Not Available
   forbid_bonus_play: false
   lines: 10
   payout: 96.1
-  description: "Lucky Dama Muerta brings the dead to life (in this 5x3 slot)! Fun
+  description:
+    "Lucky Dama Muerta brings the dead to life (in this 5x3 slot)! Fun
     and vibrant symbols, music that sets the scene and features such as unlimited
     Free Spins, Wild Multipliers and Gamble rounds promises rewards that will make
     all turn in their graves! \r\n\r\nIn this 5x3 slot game more than just the deceased
@@ -2645,7 +2689,7 @@
       blacklist: []
     RS:
       whitelist:
-      - RS
+        - RS
 - title: Lucky Farm Bonanza
   identifier: softswiss:LuckyFarmBonanza
   identifier2: LuckyFarmBonanza
@@ -2657,12 +2701,12 @@
   feature_group: new
   customised: false
   devices:
-  - desktop
-  - mobile
+    - desktop
+    - mobile
   licenses:
-  - CW
-  - GR
-  - MT
+    - CW
+    - GR
+    - MT
   jackpot_type: Not Available
   forbid_bonus_play: false
   payout: 96.0
@@ -2676,7 +2720,7 @@
       blacklist: []
     RS:
       whitelist:
-      - RS
+        - RS
 - title: Lucky Lady's Clover
   identifier: softswiss:LuckyLadyClover
   identifier2: LuckyLadyClover
@@ -2688,18 +2732,19 @@
   feature_group: basic
   customised: false
   devices:
-  - desktop
-  - mobile
+    - desktop
+    - mobile
   licenses:
-  - CW
-  - GR
-  - MT
-  - RO
+    - CW
+    - GR
+    - MT
+    - RO
   jackpot_type: Not Available
   forbid_bonus_play: false
   lines: 9
   payout: 97.31
-  description: Lucky lady clover is a slot with 5 reels and 9 paylines based on the
+  description:
+    Lucky lady clover is a slot with 5 reels and 9 paylines based on the
     theme of magic symbols.Alongside with standard letters and numbers, it depicts
     four - leaved clover, golden coin, rainbow,lucky horseshoe, pot with golden coins,
     magician hat, and fairy. It offers a variety of bonusesincluding 15 free spins
@@ -2712,7 +2757,7 @@
       blacklist: []
     RS:
       whitelist:
-      - RS
+        - RS
 - title: Lady Wolf Moon
   identifier: softswiss:LuckyLadyMoon
   identifier2: LuckyLadyMoon
@@ -2724,17 +2769,18 @@
   feature_group: new
   customised: false
   devices:
-  - desktop
-  - mobile
+    - desktop
+    - mobile
   licenses:
-  - CW
-  - MT
-  - BY
+    - CW
+    - MT
+    - BY
   jackpot_type: Not Available
   forbid_bonus_play: false
   lines: 10
   payout: 97.0
-  description: When the sun goes below the horizon and the dark comes around, the
+  description:
+    When the sun goes below the horizon and the dark comes around, the
     majestic moon becomes the lady of the night. Have you ever heard that it has a
     special energy and magic power? Lucky Lady Moon is here to prove it!A 5x3 slot
     machine with alluring graphics and music creates a world hiding a lot of surprises.
@@ -2749,7 +2795,7 @@
       blacklist: []
     RS:
       whitelist:
-      - RS
+        - RS
 - title: Lady Wolf Moon Megaways
   identifier: softswiss:LuckyLadyMoonMegaways
   identifier2: LuckyLadyMoonMegaways
@@ -2761,12 +2807,12 @@
   feature_group: new
   customised: false
   devices:
-  - desktop
-  - mobile
+    - desktop
+    - mobile
   licenses:
-  - BY
-  - CW
-  - MT
+    - BY
+    - CW
+    - MT
   jackpot_type: Not Available
   forbid_bonus_play: false
   payout: 96.84
@@ -2780,7 +2826,7 @@
       blacklist: []
     RS:
       whitelist:
-      - RS
+        - RS
 - title: Lucky Oak
   identifier: softswiss:LuckyOak
   identifier2: LuckyOak
@@ -2792,11 +2838,11 @@
   feature_group: new
   customised: false
   devices:
-  - desktop
-  - mobile
+    - desktop
+    - mobile
   licenses:
-  - CW
-  - MT
+    - CW
+    - MT
   jackpot_type: Not Available
   forbid_bonus_play: false
   lines: 10
@@ -2811,7 +2857,7 @@
       blacklist: []
     RS:
       whitelist:
-      - RS
+        - RS
 - title: Lucky Sweets
   identifier: softswiss:LuckySweets
   identifier2: LuckySweets
@@ -2823,17 +2869,18 @@
   feature_group: basic
   customised: false
   devices:
-  - desktop
-  - mobile
+    - desktop
+    - mobile
   licenses:
-  - CW
-  - MT
-  - GR
+    - CW
+    - MT
+    - GR
   jackpot_type: Not Available
   forbid_bonus_play: false
   lines: 5
   payout: 96.54
-  description: Do you ever dream of a freshly baked tiramisu or a glazed sweet roll?
+  description:
+    Do you ever dream of a freshly baked tiramisu or a glazed sweet roll?
     We know you do. Perhapsyour appetite is yearning for a cupcake and a French brioche,
     too? Well, now you can have themall at the same time as part of an entertaining
     and user-friendly Lucky Sweets video slot.Take in the simple pleasures of life
@@ -2852,7 +2899,7 @@
       blacklist: []
     RS:
       whitelist:
-      - RS
+        - RS
 - title: Maneki 88 Fortunes
   identifier: softswiss:Maneki88Fortunes
   identifier2: Maneki88Fortunes
@@ -2864,11 +2911,11 @@
   feature_group: new
   customised: false
   devices:
-  - desktop
-  - mobile
+    - desktop
+    - mobile
   licenses:
-  - CW
-  - MT
+    - CW
+    - MT
   jackpot_type: Not Available
   forbid_bonus_play: true
   lines: 243
@@ -2884,7 +2931,7 @@
       blacklist: []
     RS:
       whitelist:
-      - RS
+        - RS
 - title: Maneki 88 Gold
   identifier: softswiss:Maneki88Gold
   identifier2: Maneki88Gold
@@ -2896,12 +2943,12 @@
   feature_group: new
   customised: false
   devices:
-  - desktop
-  - mobile
+    - desktop
+    - mobile
   licenses:
-  - CW
-  - GR
-  - MT
+    - CW
+    - GR
+    - MT
   jackpot_type: Not Available
   forbid_bonus_play: true
   lines: 243
@@ -2917,7 +2964,7 @@
       blacklist: []
     RS:
       whitelist:
-      - RS
+        - RS
 - title: Mechanical Clover
   identifier: softswiss:MechanicalClover
   identifier2: MechanicalClover
@@ -2929,16 +2976,17 @@
   feature_group: new
   customised: false
   devices:
-  - desktop
-  - mobile
+    - desktop
+    - mobile
   licenses:
-  - CW
-  - GR
+    - CW
+    - GR
   jackpot_type: Not Available
   forbid_bonus_play: false
   lines: 5
   payout: 95.42
-  description: Could you imagine modern devices powered by steam? Weird, right? Futuristic,
+  description:
+    Could you imagine modern devices powered by steam? Weird, right? Futuristic,
     yet retro at the same time, steampunk is truly one of a kind. Created about 30
     years ago, it was inspired by the Victorian era and turned into an alternate reality
     where technological progress is based not on electricity, but on steam. The unique
@@ -2953,7 +3001,7 @@
       blacklist: []
     RS:
       whitelist:
-      - RS
+        - RS
 - title: Mechanical Orange
   identifier: softswiss:MechanicalOrange
   identifier2: MechanicalOrange
@@ -2965,17 +3013,18 @@
   feature_group: basic
   customised: false
   devices:
-  - desktop
-  - mobile
+    - desktop
+    - mobile
   licenses:
-  - MT
-  - CW
-  - GR
+    - MT
+    - CW
+    - GR
   jackpot_type: Not Available
   forbid_bonus_play: false
   lines: 1
   payout: 96.0
-  description: Mechanical Orange with its retro elements will take you to the alternative
+  description:
+    Mechanical Orange with its retro elements will take you to the alternative
     world of great beauty:quaint, old, nostalgic in combination with surprisingly
     bright colors. With anachronistic invention as thecentral symbol of the game players
     can totally get into the steampunk fantasy, along with finely craftedand visually
@@ -2992,7 +3041,7 @@
       blacklist: []
     RS:
       whitelist:
-      - RS
+        - RS
 - title: Merge Up
   identifier: softswiss:MergeUp
   identifier2: MergeUp
@@ -3004,11 +3053,11 @@
   feature_group: new
   customised: false
   devices:
-  - desktop
-  - mobile
+    - desktop
+    - mobile
   licenses:
-  - CW
-  - MT
+    - CW
+    - MT
   jackpot_type: Not Available
   forbid_bonus_play: false
   payout: 97.25
@@ -3022,7 +3071,7 @@
       blacklist: []
     RS:
       whitelist:
-      - RS
+        - RS
 - title: Mice & Magic Wonder Spin
   identifier: softswiss:MiceAndMagic
   identifier2: MiceAndMagic
@@ -3034,11 +3083,11 @@
   feature_group: new
   customised: false
   devices:
-  - desktop
-  - mobile
+    - desktop
+    - mobile
   licenses:
-  - CW
-  - MT
+    - CW
+    - MT
   jackpot_type: Not Available
   forbid_bonus_play: true
   lines: 20
@@ -3054,7 +3103,7 @@
       blacklist: []
     RS:
       whitelist:
-      - RS
+        - RS
 - title: Minesweeper
   identifier: softswiss:Minesweeper
   identifier2: Minesweeper
@@ -3066,16 +3115,17 @@
   feature_group: basic
   customised: false
   devices:
-  - desktop
-  - mobile
+    - desktop
+    - mobile
   licenses:
-  - MT
-  - CW
-  - GR
+    - MT
+    - CW
+    - GR
   jackpot_type: Not Available
   forbid_bonus_play: false
   payout: 98.1
-  description: '"Walk softly" could be the motto of Minesweeper, a casual game by
+  description:
+    '"Walk softly" could be the motto of Minesweeper, a casual game by
     Bgaming. In fact it is a variationof a well-known timekiller-procrastinator computer
     game but this one can really bring some benefitsto an experienced sapper. Recollect
     all your skills and tune up the sensors! No reels, no cards thistime. Just a lined
@@ -3097,35 +3147,7 @@
       blacklist: []
     RS:
       whitelist:
-      - RS
-- title: Minesweeper XY
-  identifier: softswiss:MinesweeperXY
-  identifier2: MinesweeperXY
-  provider: softswiss
-  producer: bgaming
-  category: casual
-  theme: other
-  has_freespins: false
-  feature_group: new
-  customised: false
-  devices:
-  - desktop
-  - mobile
-  licenses:
-  - CW
-  - GR
-  - MT
-  jackpot_type: Not Available
-  forbid_bonus_play: false
-  payout: 98.4
-  hd: true
-  released_at: 2022-03-24
-  restrictions:
-    default:
-      blacklist: []
-    RS:
-      whitelist:
-      - RS
+        - RS
 - title: Miss Cherry Fruits
   identifier: softswiss:MissCherryFruits
   identifier2: MissCherryFruits
@@ -3137,16 +3159,17 @@
   feature_group: new
   customised: false
   devices:
-  - desktop
-  - mobile
+    - desktop
+    - mobile
   licenses:
-  - CW
-  - MT
+    - CW
+    - MT
   jackpot_type: Not Available
   forbid_bonus_play: false
   lines: 20
   payout: 96.13
-  description: "Well-designed fruit slots are never enough! BGaming is delighted to
+  description:
+    "Well-designed fruit slots are never enough! BGaming is delighted to
     add one more traditional-style game to its collection! The brand’s new title Miss
     Cherry Fruits surprises players with fresh gorgeous graphics and impressive features!\r\n\r\n20
     lines hidden in the slot are paid both from left to right and from right to left!
@@ -3161,7 +3184,7 @@
       blacklist: []
     RS:
       whitelist:
-      - RS
+        - RS
 - title: Miss Cherry Fruits Jackpot party
   identifier: softswiss:MissCherryFruitsJackpotparty
   identifier2: MissCherryFruitsJackpotparty
@@ -3173,12 +3196,12 @@
   feature_group: new
   customised: false
   devices:
-  - desktop
-  - mobile
+    - desktop
+    - mobile
   licenses:
-  - CW
-  - GR
-  - MT
+    - CW
+    - GR
+    - MT
   jackpot_type: Not Available
   forbid_bonus_play: false
   lines: 25
@@ -3193,7 +3216,7 @@
       blacklist: []
     RS:
       whitelist:
-      - RS
+        - RS
 - title: Monster Hunt
   identifier: softswiss:MonsterHunt
   identifier2: MonsterHunt
@@ -3205,11 +3228,11 @@
   feature_group: new
   customised: false
   devices:
-  - desktop
-  - mobile
+    - desktop
+    - mobile
   licenses:
-  - CW
-  - MT
+    - CW
+    - MT
   jackpot_type: In game
   forbid_bonus_play: false
   lines: 25
@@ -3225,7 +3248,7 @@
       blacklist: []
     RS:
       whitelist:
-      - RS
+        - RS
 - title: Multihand Blackjack
   identifier: softswiss:MultihandBlackjack
   identifier2: MultihandBlackjack
@@ -3237,18 +3260,19 @@
   feature_group: basic
   customised: false
   devices:
-  - desktop
-  - mobile
+    - desktop
+    - mobile
   licenses:
-  - CW
-  - MT
-  - GR
-  - RO
-  - BY
+    - CW
+    - MT
+    - GR
+    - RO
+    - BY
   jackpot_type: Not Available
   forbid_bonus_play: false
   payout: 99.22
-  description: Blackjack is by far the most popular casino card game also known as
+  description:
+    Blackjack is by far the most popular casino card game also known as
     twenty-one. Regardless ofthe simplicity of the game rules it boasts high winning
     chances and a great deal of excitement.With 6 decks, 52 cards each, this game
     is played against the House, with one of the Dealer's cardsface down at the start.Players
@@ -3266,7 +3290,7 @@
       blacklist: []
     RS:
       whitelist:
-      - RS
+        - RS
 - title: Mummy's Gold
   identifier: softswiss:MummysGold
   identifier2: MummysGold
@@ -3278,11 +3302,11 @@
   feature_group: new
   customised: false
   devices:
-  - desktop
-  - mobile
+    - desktop
+    - mobile
   licenses:
-  - CW
-  - MT
+    - CW
+    - MT
   jackpot_type: Not Available
   forbid_bonus_play: false
   lines: 15
@@ -3296,7 +3320,7 @@
       blacklist: []
     RS:
       whitelist:
-      - RS
+        - RS
 - title: Penny Pelican
   identifier: softswiss:PennyPelican
   identifier2: PennyPelican
@@ -3308,11 +3332,11 @@
   feature_group: new
   customised: false
   devices:
-  - desktop
-  - mobile
+    - desktop
+    - mobile
   licenses:
-  - CW
-  - MT
+    - CW
+    - MT
   jackpot_type: Not Available
   forbid_bonus_play: false
   lines: 20
@@ -3327,7 +3351,7 @@
       blacklist: []
     RS:
       whitelist:
-      - RS
+        - RS
 - title: Platinum Lightning
   identifier: softswiss:PlatinumLightning
   identifier2: PlatinumLightning
@@ -3339,18 +3363,19 @@
   feature_group: basic
   customised: false
   devices:
-  - desktop
-  - mobile
+    - desktop
+    - mobile
   licenses:
-  - CW
-  - MT
-  - RO
-  - BY
+    - CW
+    - MT
+    - RO
+    - BY
   jackpot_type: Not Available
   forbid_bonus_play: false
   lines: 25
   payout: 96.29
-  description: 'This 25 paylines slot features figures from theAncient Greek mythology
+  description:
+    "This 25 paylines slot features figures from theAncient Greek mythology
     and is packed withspecial features which make the game moreattractive to the users:
     scatters which multiplywinnings by total bets, wild symbols, bonuses,free spins
     and a gambling round.Grab hold of the all-powerful Zeus LightningScatter. A combination
@@ -3361,7 +3386,7 @@
     on reels 1 and 5, triggers 10 free spins.Borrowing from the Ancient and recent
     folklore of Greece, the games catchy Sirtaki music is boundto stay with you long
     after you stop playing. Enjoy meeting the Pantheon of Gods and Heroes aswell as
-    the gifts they have to offer with Platinum Lightning!'
+    the gifts they have to offer with Platinum Lightning!"
   volatility_rating: medium-high
   hd: true
   multiplier: 8888.0
@@ -3370,7 +3395,7 @@
       blacklist: []
     RS:
       whitelist:
-      - RS
+        - RS
 - title: Platinum Lightning Deluxe
   identifier: softswiss:PlatinumLightningDeluxe
   identifier2: PlatinumLightningDeluxe
@@ -3382,17 +3407,18 @@
   feature_group: basic
   customised: false
   devices:
-  - desktop
-  - mobile
+    - desktop
+    - mobile
   licenses:
-  - MT
-  - RO
-  - CW
+    - MT
+    - RO
+    - CW
   jackpot_type: Not Available
   forbid_bonus_play: false
   lines: 25
   payout: 96.29
-  description: The slot game is based on the motifs of ancient Greek mythology.The
+  description:
+    The slot game is based on the motifs of ancient Greek mythology.The
     main heroes of the game are heroes and gods of Greece -Hercules, Themis, Medusa
     and others.Greek mythology has had an extensive influence on the culture,arts,
     and literature of Western civilization and remains part ofEuropean heritage and
@@ -3407,7 +3433,7 @@
       blacklist: []
     RS:
       whitelist:
-      - RS
+        - RS
 - title: Plinko
   identifier: softswiss:Plinko
   identifier2: Plinko
@@ -3419,29 +3445,30 @@
   feature_group: basic
   customised: true
   devices:
-  - desktop
-  - mobile
+    - desktop
+    - mobile
   licenses:
-  - CW
-  - GR
-  - MT
+    - CW
+    - GR
+    - MT
   jackpot_type: Not Available
   forbid_bonus_play: false
   payout: 99.0
-  description: 'Welcome to Plinko - BGaming version of the casual game with high winning
+  description:
+    "Welcome to Plinko - BGaming version of the casual game with high winning
     odds. Plinko is a mix ofarcade games and online gaming: resembles pinball or the
     Japanese pachinko game, the basicprinciple has much in common with these ones.
     The player receives the payouts with thecorresponding coefficients. The size of
     the win depends on the hole the ball falls into. The game isincredibly simple
     and does not require special skills. During the game Plinko, the trajectory of
-    theball can''t be affected, there are no strategies for this game.'
+    theball can't be affected, there are no strategies for this game."
   hd: true
   restrictions:
     default:
       blacklist: []
     RS:
       whitelist:
-      - RS
+        - RS
 - title: Plinko XY
   identifier: softswiss:PlinkoXY
   identifier2: PlinkoXY
@@ -3453,12 +3480,12 @@
   feature_group: new
   customised: true
   devices:
-  - desktop
-  - mobile
+    - desktop
+    - mobile
   licenses:
-  - CW
-  - GR
-  - MT
+    - CW
+    - GR
+    - MT
   jackpot_type: Not Available
   forbid_bonus_play: false
   payout: 99.0
@@ -3469,7 +3496,7 @@
       blacklist: []
     RS:
       whitelist:
-      - RS
+        - RS
 - title: Potion Spells
   identifier: softswiss:PotionSpells
   identifier2: PotionSpells
@@ -3481,10 +3508,10 @@
   feature_group: standard
   customised: false
   devices:
-  - desktop
-  - mobile
+    - desktop
+    - mobile
   licenses:
-  - CW
+    - CW
   jackpot_type: Not Available
   forbid_bonus_play: false
   payout: 96.25
@@ -3498,7 +3525,7 @@
       blacklist: []
     RS:
       whitelist:
-      - RS
+        - RS
 - title: Princess of Sky
   identifier: softswiss:PrincessOfSky
   identifier2: PrincessOfSky
@@ -3510,23 +3537,24 @@
   feature_group: basic
   customised: false
   devices:
-  - desktop
-  - mobile
+    - desktop
+    - mobile
   licenses:
-  - CW
-  - MT
-  - GR
+    - CW
+    - MT
+    - GR
   jackpot_type: Not Available
   forbid_bonus_play: false
   lines: 9
   payout: 95.99
-  description: 'Princess of Sky is a full HD 5-reel 9 payline slot based on thetraditional
+  description:
+    "Princess of Sky is a full HD 5-reel 9 payline slot based on thetraditional
     tale of princess and her fairy kingdom. With the fabpalace behind the reels and
     white pigeons in the sky, the slotcreates a true atmosphere of the medieval fairy
     tale. It ispacked with the glittering symbols of jewels, diamond rings,roses,
     gift boxes, golden crowns, and magic keys. It alsobrings a lot of magic to the
     scene: the blond Scatter princesstriggering bonus free spins and the Wild ruby
-    heartsubstituting any symbol to complete the winning combination.'
+    heartsubstituting any symbol to complete the winning combination."
   volatility_rating: medium-high
   hd: true
   multiplier: 10000.0
@@ -3535,7 +3563,7 @@
       blacklist: []
     RS:
       whitelist:
-      - RS
+        - RS
 - title: Princess Royal
   identifier: softswiss:PrincessRoyal
   identifier2: PrincessRoyal
@@ -3547,17 +3575,18 @@
   feature_group: basic
   customised: false
   devices:
-  - desktop
-  - mobile
+    - desktop
+    - mobile
   licenses:
-  - MT
-  - CW
-  - GR
+    - MT
+    - CW
+    - GR
   jackpot_type: Not Available
   forbid_bonus_play: false
   lines: 9
   payout: 97.1
-  description: Princess Royal is a slot with 5 reels and 9 paylines based on the theme
+  description:
+    Princess Royal is a slot with 5 reels and 9 paylines based on the theme
     of luxury lifestyle of royalty.Alongside with standard letters and numbers, it
     depicts four - leaved clover ring, gold withdiamantes horseshoe, ruby heart, luxury
     car, smart hotel, gold crown, and a gorgeous princess. Itoffers a variety of bonuses
@@ -3571,7 +3600,7 @@
       blacklist: []
     RS:
       whitelist:
-      - RS
+        - RS
 - title: Road 2 Riches
   identifier: softswiss:Road2Riches
   identifier2: Road2Riches
@@ -3583,16 +3612,17 @@
   feature_group: new
   customised: false
   devices:
-  - desktop
-  - mobile
+    - desktop
+    - mobile
   licenses:
-  - CW
-  - MT
+    - CW
+    - MT
   jackpot_type: Not Available
   forbid_bonus_play: false
   lines: 50
   payout: 96.24
-  description: Full of adventures, sometimes dangerous, but still alluring, Route
+  description:
+    Full of adventures, sometimes dangerous, but still alluring, Route
     66 invites you to start your journey to riches! The main street of America, leading
     to full life Chicago, has always attracted travelers who are looking for vivid
     impressions and, of course, big money. Inspired by the legend, BGaming presents
@@ -3612,7 +3642,7 @@
       blacklist: []
     RS:
       whitelist:
-      - RS
+        - RS
 - title: Rocket Dice
   identifier: softswiss:RocketDice
   identifier2: RocketDice
@@ -3624,16 +3654,17 @@
   feature_group: basic
   customised: false
   devices:
-  - desktop
-  - mobile
+    - desktop
+    - mobile
   licenses:
-  - MT
-  - CW
-  - GR
+    - MT
+    - CW
+    - GR
   jackpot_type: Not Available
   forbid_bonus_play: true
   payout: 99.0
-  description: Dice is one of the famous and ancient games. It appeared long time
+  description:
+    Dice is one of the famous and ancient games. It appeared long time
     ago, the principle of the gamestayed almost unchanged. The tools of the game are
     the dices (bones). The dice has six playingfaces, which are numbered from 1 to
     6. During the game the dices are rolled, then the points arecalculated, which
@@ -3648,7 +3679,7 @@
       blacklist: []
     RS:
       whitelist:
-      - RS
+        - RS
 - title: Rocket Dice XY
   identifier: softswiss:RocketDiceXY
   identifier2: RocketDiceXY
@@ -3660,12 +3691,12 @@
   feature_group: new
   customised: false
   devices:
-  - desktop
-  - mobile
+    - desktop
+    - mobile
   licenses:
-  - CW
-  - GR
-  - MT
+    - CW
+    - GR
+    - MT
   jackpot_type: Not Available
   forbid_bonus_play: false
   payout: 99.0
@@ -3676,7 +3707,7 @@
       blacklist: []
     RS:
       whitelist:
-      - RS
+        - RS
 - title: Royal High-Road
   identifier: softswiss:RoyalHighRoad
   identifier2: RoyalHighRoad
@@ -3688,11 +3719,11 @@
   feature_group: new
   customised: false
   devices:
-  - desktop
-  - mobile
+    - desktop
+    - mobile
   licenses:
-  - CW
-  - MT
+    - CW
+    - MT
   jackpot_type: Not Available
   forbid_bonus_play: false
   lines: 25
@@ -3707,7 +3738,7 @@
       blacklist: []
     RS:
       whitelist:
-      - RS
+        - RS
 - title: Savage Buffalo Spirit
   identifier: softswiss:SavageBuffaloSpirit
   identifier2: SavageBuffaloSpirit
@@ -3719,11 +3750,11 @@
   feature_group: new
   customised: false
   devices:
-  - desktop
-  - mobile
+    - desktop
+    - mobile
   licenses:
-  - CW
-  - MT
+    - CW
+    - MT
   jackpot_type: Not Available
   forbid_bonus_play: false
   lines: 10
@@ -3738,7 +3769,7 @@
       blacklist: []
     RS:
       whitelist:
-      - RS
+        - RS
 - title: Savage Buffalo Spirit Megaways
   identifier: softswiss:SavageBuffaloSpiritMegaways
   identifier2: SavageBuffaloSpiritMegaways
@@ -3750,11 +3781,11 @@
   feature_group: new
   customised: false
   devices:
-  - desktop
-  - mobile
+    - desktop
+    - mobile
   licenses:
-  - CW
-  - MT
+    - CW
+    - MT
   jackpot_type: Not Available
   forbid_bonus_play: false
   payout: 97.04
@@ -3768,7 +3799,7 @@
       blacklist: []
     RS:
       whitelist:
-      - RS
+        - RS
 - title: Scratch Alpaca Bronze
   identifier: softswiss:ScratchAlpacaBronze
   identifier2: ScratchAlpacaBronze
@@ -3780,10 +3811,10 @@
   feature_group: standard
   customised: false
   devices:
-  - desktop
-  - mobile
+    - desktop
+    - mobile
   licenses:
-  - CW
+    - CW
   jackpot_type: Not Available
   forbid_bonus_play: false
   payout: 90.0
@@ -3796,7 +3827,7 @@
       blacklist: []
     RS:
       whitelist:
-      - RS
+        - RS
 - title: Scratch Alpaca Gold
   identifier: softswiss:ScratchAlpacaGold
   identifier2: ScratchAlpacaGold
@@ -3808,10 +3839,10 @@
   feature_group: standard
   customised: false
   devices:
-  - desktop
-  - mobile
+    - desktop
+    - mobile
   licenses:
-  - CW
+    - CW
   jackpot_type: Not Available
   forbid_bonus_play: false
   payout: 90.0
@@ -3824,7 +3855,7 @@
       blacklist: []
     RS:
       whitelist:
-      - RS
+        - RS
 - title: Scratch Alpaca Silver
   identifier: softswiss:ScratchAlpacaSilver
   identifier2: ScratchAlpacaSilver
@@ -3836,10 +3867,10 @@
   feature_group: standard
   customised: false
   devices:
-  - desktop
-  - mobile
+    - desktop
+    - mobile
   licenses:
-  - CW
+    - CW
   jackpot_type: Not Available
   forbid_bonus_play: false
   payout: 90.0
@@ -3852,7 +3883,7 @@
       blacklist: []
     RS:
       whitelist:
-      - RS
+        - RS
 - title: Scratch Dice
   identifier: softswiss:ScratchDice
   identifier2: ScratchDice
@@ -3864,16 +3895,17 @@
   feature_group: basic
   customised: false
   devices:
-  - desktop
-  - mobile
+    - desktop
+    - mobile
   licenses:
-  - MT
-  - CW
-  - GR
+    - MT
+    - CW
+    - GR
   jackpot_type: Not Available
   forbid_bonus_play: false
   payout: 97.2
-  description: Scratch Dice is a mobile-first game of luck by Bgaming. A fusion of
+  description:
+    Scratch Dice is a mobile-first game of luck by Bgaming. A fusion of
     dice and instant lottery, thisgame has been designed to deliver a bit of elegant
     simplicity into the gambling process.The rules are simple enough to get you in
     the game immediately. There are lottery tickets withscratch zone and dice symbols
@@ -3893,7 +3925,7 @@
       blacklist: []
     RS:
       whitelist:
-      - RS
+        - RS
 - title: Scroll of Adventure
   identifier: softswiss:ScrollOfAdventure
   identifier2: ScrollOfAdventure
@@ -3905,18 +3937,19 @@
   feature_group: basic
   customised: false
   devices:
-  - desktop
-  - mobile
+    - desktop
+    - mobile
   licenses:
-  - CW
-  - MT
-  - GR
-  - RO
+    - CW
+    - MT
+    - GR
+    - RO
   jackpot_type: Not Available
   forbid_bonus_play: false
   lines: 5
   payout: 97.13
-  description: Scroll of Adventure is a slot with 5 reels and 5 paylines based on
+  description:
+    Scroll of Adventure is a slot with 5 reels and 5 paylines based on
     the traditional Egyptian theme ofPharaohs treasure hunting. Alongside standard
     slot symbols which are all presented in anauthentic Egyptian font, the game also
     depicts mask of Tutankhamun's mummy, ancient papyrusscroll, winged goddess Isis,
@@ -3930,7 +3963,7 @@
       blacklist: []
     RS:
       whitelist:
-      - RS
+        - RS
 - title: Slot Machine
   identifier: softswiss:SlotMachine
   identifier2: SlotMachine
@@ -3942,11 +3975,11 @@
   feature_group: new
   customised: false
   devices:
-  - desktop
-  - mobile
+    - desktop
+    - mobile
   licenses:
-  - CW
-  - MT
+    - CW
+    - MT
   jackpot_type: Not Available
   forbid_bonus_play: false
   lines: 5
@@ -3961,7 +3994,7 @@
       blacklist: []
     RS:
       whitelist:
-      - RS
+        - RS
 - title: Slotomon Go
   identifier: softswiss:SlotomonGo
   identifier2: SlotomonGo
@@ -3973,18 +4006,19 @@
   feature_group: basic
   customised: false
   devices:
-  - desktop
-  - mobile
+    - desktop
+    - mobile
   licenses:
-  - CW
-  - MT
-  - GR
-  - RO
+    - CW
+    - MT
+    - GR
+    - RO
   jackpot_type: Not Available
   forbid_bonus_play: false
   lines: 5
   payout: 97.13
-  description: Slotomon Go is a slot with fun take on your beloved pocket monsters
+  description:
+    Slotomon Go is a slot with fun take on your beloved pocket monsters
     with vivid animations andmemorable characters. You don't have to walk for miles
     to catch your favourite Slotomon, here youjust spin the reels to discover each
     one's unique personality and animation. Each little monstercarries its own multiplier
@@ -3997,7 +4031,7 @@
       blacklist: []
     RS:
       whitelist:
-      - RS
+        - RS
 - title: Soccermania
   identifier: softswiss:Soccermania
   identifier2: Soccermania
@@ -4009,12 +4043,12 @@
   feature_group: new
   customised: false
   devices:
-  - desktop
-  - mobile
+    - desktop
+    - mobile
   licenses:
-  - CW
-  - GR
-  - MT
+    - CW
+    - GR
+    - MT
   jackpot_type: Not Available
   forbid_bonus_play: false
   lines: 5
@@ -4029,7 +4063,7 @@
       blacklist: []
     RS:
       whitelist:
-      - RS
+        - RS
 - title: Space XY
   identifier: softswiss:SpaceXY
   identifier2: SpaceXY
@@ -4041,12 +4075,12 @@
   feature_group: new
   customised: false
   devices:
-  - desktop
-  - mobile
+    - desktop
+    - mobile
   licenses:
-  - CW
-  - GR
-  - MT
+    - CW
+    - GR
+    - MT
   jackpot_type: Not Available
   forbid_bonus_play: false
   payout: 97.0
@@ -4058,7 +4092,7 @@
       blacklist: []
     RS:
       whitelist:
-      - RS
+        - RS
 - title: Spin and Spell
   identifier: softswiss:SpinAndSpell
   identifier2: SpinAndSpell
@@ -4070,18 +4104,19 @@
   feature_group: basic
   customised: false
   devices:
-  - desktop
-  - mobile
+    - desktop
+    - mobile
   licenses:
-  - CW
-  - MT
-  - GR
-  - BY
+    - CW
+    - MT
+    - GR
+    - BY
   jackpot_type: Not Available
   forbid_bonus_play: false
   lines: 20
   payout: 95.8
-  description: BGaming inspired by the spookiest night of the year created a special
+  description:
+    BGaming inspired by the spookiest night of the year created a special
     video slot - Spin and Spell.The game has with 5x3 scheme and 20 paylines. This
     Halloween themed slot features all thosefamous symbols related to Halloween such
     as pumpkins, bats and black cats, witches and hauntedcastles, while there are
@@ -4097,7 +4132,7 @@
       blacklist: []
     RS:
       whitelist:
-      - RS
+        - RS
 - title: Sweet Rush Megaways
   identifier: softswiss:SweetRushMegaways
   identifier2: SweetRushMegaways
@@ -4109,11 +4144,11 @@
   feature_group: new
   customised: false
   devices:
-  - desktop
-  - mobile
+    - desktop
+    - mobile
   licenses:
-  - CW
-  - MT
+    - CW
+    - MT
   jackpot_type: Not Available
   forbid_bonus_play: false
   payout: 96.69
@@ -4127,7 +4162,7 @@
       blacklist: []
     RS:
       whitelist:
-      - RS
+        - RS
 - title: Tramp Day
   identifier: softswiss:TrampDay
   identifier2: TrampDay
@@ -4139,11 +4174,11 @@
   feature_group: new
   customised: false
   devices:
-  - desktop
-  - mobile
+    - desktop
+    - mobile
   licenses:
-  - CW
-  - MT
+    - CW
+    - MT
   jackpot_type: Not Available
   forbid_bonus_play: false
   payout: 97.17
@@ -4157,7 +4192,7 @@
       blacklist: []
     RS:
       whitelist:
-      - RS
+        - RS
 - title: WBC Ring of Riches
   identifier: softswiss:WbcRingOfRiches
   identifier2: WbcRingOfRiches
@@ -4169,17 +4204,18 @@
   feature_group: new
   customised: false
   devices:
-  - desktop
-  - mobile
+    - desktop
+    - mobile
   licenses:
-  - CW
-  - BY
-  - MT
+    - CW
+    - BY
+    - MT
   jackpot_type: Not Available
   forbid_bonus_play: true
   lines: 20
   payout: 95.48
-  description: BGaming strives to bring sport-themed slots to the next level of entertainment!
+  description:
+    BGaming strives to bring sport-themed slots to the next level of entertainment!
     We launch the new slot in association with the World Boxing Council! Meet WBC
     Ring of Riches!
   volatility_rating: medium-high
@@ -4191,7 +4227,7 @@
       blacklist: []
     RS:
       whitelist:
-      - RS
+        - RS
 - title: West Town
   identifier: softswiss:WestTown
   identifier2: WestTown
@@ -4203,18 +4239,19 @@
   feature_group: basic
   customised: false
   devices:
-  - desktop
-  - mobile
+    - desktop
+    - mobile
   licenses:
-  - CW
-  - MT
-  - GR
-  - RO
+    - CW
+    - MT
+    - GR
+    - RO
   jackpot_type: Not Available
   forbid_bonus_play: false
   lines: 9
   payout: 96.95
-  description: West Town is a traditional western-themed slot. It gets the players
+  description:
+    West Town is a traditional western-themed slot. It gets the players
     to the most iconic times in theAmerican history. The game depicts different Wild
     West symbols, like sheriff's badge, guns, boxeswith gold coins, glass of whiskey,
     Wanted-sticker, bandit, Joker and playing card symbols. Unlikein many slot games,
@@ -4227,7 +4264,7 @@
       blacklist: []
     RS:
       whitelist:
-      - RS
+        - RS
 - title: Wild Cash
   identifier: softswiss:WildCash
   identifier2: WildCash
@@ -4239,11 +4276,11 @@
   feature_group: basic
   customised: false
   devices:
-  - desktop
-  - mobile
+    - desktop
+    - mobile
   licenses:
-  - BY
-  - CW
+    - BY
+    - CW
   jackpot_type: Not Available
   forbid_bonus_play: false
   lines: 5
@@ -4258,7 +4295,7 @@
       blacklist: []
     RS:
       whitelist:
-      - RS
+        - RS
 - title: Wild Cash Dice
   identifier: softswiss:WildCashDice
   identifier2: WildCashDice
@@ -4270,11 +4307,11 @@
   feature_group: new
   customised: false
   devices:
-  - desktop
-  - mobile
+    - desktop
+    - mobile
   licenses:
-  - CW
-  - MT
+    - CW
+    - MT
   jackpot_type: Not Available
   forbid_bonus_play: false
   lines: 10
@@ -4289,7 +4326,7 @@
       blacklist: []
     RS:
       whitelist:
-      - RS
+        - RS
 - title: Wild Cash x9990
   identifier: softswiss:WildCashX9990
   identifier2: WildCashX9990
@@ -4301,12 +4338,12 @@
   feature_group: new
   customised: false
   devices:
-  - desktop
-  - mobile
+    - desktop
+    - mobile
   licenses:
-  - CW
-  - GR
-  - MT
+    - CW
+    - GR
+    - MT
   jackpot_type: Not Available
   forbid_bonus_play: false
   lines: 10
@@ -4321,7 +4358,7 @@
       blacklist: []
     RS:
       whitelist:
-      - RS
+        - RS
 - title: Wild Chicago
   identifier: softswiss:WildChicago
   identifier2: WildChicago
@@ -4333,11 +4370,11 @@
   feature_group: new
   customised: true
   devices:
-  - desktop
-  - mobile
+    - desktop
+    - mobile
   licenses:
-  - CW
-  - MT
+    - CW
+    - MT
   jackpot_type: Not Available
   forbid_bonus_play: false
   lines: 10
@@ -4352,4 +4389,4 @@
       blacklist: []
     RS:
       whitelist:
-      - RS
+        - RS
